@@ -1,0 +1,817 @@
+[
+  {
+    "slug": "what-is-a-credit-score",
+    "takeaways": [
+      "A credit score is a number built from your credit reports that signals to lenders how risky you are to lend to.",
+      "Payment history and how much you owe relative to your limits usually carry the most weight in your score.",
+      "Several scoring models exist, so the same person can have slightly different but equally accurate scores.",
+      "You can get free credit reports through AnnualCreditReport.com and dispute any errors you find with the bureau.",
+      "Paying every bill on time and keeping card balances low are the most reliable ways to build your score."
+    ],
+    "faq": [
+      {
+        "q": "Does checking my own credit reports lower my score?",
+        "a": "No. Pulling your own credit reports does not hurt your score. You are entitled to free copies from the three major bureaus through the official AnnualCreditReport.com site, and reviewing them is a smart habit."
+      },
+      {
+        "q": "Why is my credit score different depending on where I look?",
+        "a": "There is more than one scoring model, and each can draw from a different credit report. The same person can have slightly different scores depending on which model and report are used, and both can be accurate. Watch the direction your score moves over time rather than fixating on one figure."
+      },
+      {
+        "q": "Can a credit check affect things other than loans?",
+        "a": "Yes. Some landlords review credit when screening rental applications, and some utility or cell phone providers may check it before setting up service or requiring a deposit. Certain employers may also review a version of your report during a background check, with your permission. Rules vary by state and company."
+      },
+      {
+        "q": "How long does it take to improve a credit score?",
+        "a": "Building credit is slow and steady work, not a quick fix. Paying every bill on time and keeping card balances low are the most reliable moves, and consistent habits add up over months. One late payment can linger on a report for a long time, so prevention matters."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/",
+        "label": "CFPB — Credit reports and scores",
+        "note": "Official guidance on how credit reports and scores work"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-English answers to common credit and borrowing questions"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Federal advice on credit, disputes, and avoiding errors"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-compound-interest",
+    "takeaways": [
+      "Compound interest pays you interest on both your principal and the interest already earned, so balances feed on themselves.",
+      "The same force works against you on debt, where unpaid interest joins the balance and makes it grow faster.",
+      "Time matters more than amount; starting early gives modest savings decades to compound and pull ahead.",
+      "Compounding frequency, daily versus yearly, adds a small but real edge at the same stated rate.",
+      "The Rule of 72 estimates doubling time by dividing 72 by the growth rate, as a rough sense check."
+    ],
+    "faq": [
+      {
+        "q": "Why does starting to save early matter more than saving large amounts?",
+        "a": "Time is the biggest lever in compounding, because reinvested earnings keep piling on top of each other. A modest sum left to grow for many years can outpace a larger sum that had only a short time to compound. Money invested in your twenties has decades of compounding ahead, while the same money invested later has fewer years to work."
+      },
+      {
+        "q": "Can compound interest actually hurt me?",
+        "a": "Yes. With many credit cards and some loans, interest is charged on your unpaid balance, and unpaid interest can become part of the balance that future interest is figured on. This is why a balance can keep climbing even when you feel like you are paying it down. The practical lesson is to treat high-interest debt with urgency by paying more than the minimum."
+      },
+      {
+        "q": "How do I compare interest between different savings accounts or loans?",
+        "a": "Because compounding frequency makes the math confusing, many products show an effective annual figure, sometimes labeled APY for savings or APR for loans, so you can compare options more fairly. Definitions and calculation methods can differ between providers and product types. Before opening an account or signing for a loan, confirm the exact terms and how interest is applied with the provider."
+      },
+      {
+        "q": "Is the Rule of 72 an accurate way to predict my returns?",
+        "a": "No, it is only a rough approximation for quick mental math, not a prediction of any real return. It does not account for fees, taxes, added contributions, or rates that change over time. Treat it as a sense check rather than an exact forecast of how a balance might double."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.investor.gov/",
+        "label": "Investor.gov (SEC) — investing basics and calculators",
+        "note": "Investing basics and a compound interest calculator to model growth"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Guidance on credit card interest, loan terms, and managing debt"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-a-401k",
+    "takeaways": [
+      "A 401(k) is a workplace retirement plan funded automatically from your paycheck into an account you own.",
+      "Traditional contributions go in pre-tax and are taxed later, while Roth contributions are taxed now for tax-free qualified withdrawals.",
+      "Capturing the full employer match is valuable, but vesting rules may delay how much of it you keep.",
+      "Withdrawing before retirement age can trigger income taxes plus a penalty and stunts long-term growth.",
+      "When you change jobs you can leave, transfer, or roll over the money, often without triggering taxes."
+    ],
+    "faq": [
+      {
+        "q": "Is the money in my 401(k) still mine if I leave my employer?",
+        "a": "Yes, the account belongs to you even though it was set up through work. Your own contributions are always 100 percent yours. The employer's matching contributions may only be partly yours depending on the vesting schedule, so check that before leaving."
+      },
+      {
+        "q": "Should I pick traditional or Roth contributions in my 401(k)?",
+        "a": "There is no single right answer for everyone. Traditional contributions lower your taxable income now but are taxed when you withdraw in retirement, while Roth contributions are taxed now and offer generally tax-free qualified withdrawals later. It often comes down to whether you expect a higher or lower tax bracket in the future, and not every plan offers a Roth option."
+      },
+      {
+        "q": "What is an employer match and why does it matter?",
+        "a": "An employer match is extra money your company adds to your account based on what you contribute, up to a limit. It is often called free money because it is additional compensation you only receive if you participate. Contributing at least enough to capture the full match is generally worth doing."
+      },
+      {
+        "q": "Can I take money out of my 401(k) before retirement?",
+        "a": "A 401(k) is meant for retirement, so withdrawing before a certain age can generally trigger income taxes plus an additional penalty. Some plans allow loans and there are certain exceptions, but these carry their own rules and risks. Pulling money out early also reduces the time it has to grow."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.irs.gov/retirement-plans/401k-plans",
+        "label": "IRS — 401(k) plans",
+        "note": "Official current contribution limits and withdrawal rules for 401(k) plans."
+      },
+      {
+        "url": "https://www.investor.gov/",
+        "label": "Investor.gov (SEC) — investing basics",
+        "note": "Beginner guidance on investing fundamentals behind your 401(k) fund choices."
+      }
+    ]
+  },
+  {
+    "slug": "what-is-an-emergency-fund",
+    "takeaways": [
+      "An emergency fund covers expenses that are unexpected, necessary, and urgent, not planned or predictable spending.",
+      "Aim for roughly three to six months of essential expenses, adjusting up if your income is unsteady or you have dependents.",
+      "Keep the money liquid and separate from checking, in a standalone savings account away from risky investments.",
+      "Automate a recurring transfer on payday and add windfalls so the fund grows quietly over time.",
+      "If you draw the fund down, make rebuilding it a priority before returning to other money goals."
+    ],
+    "faq": [
+      {
+        "q": "Can I start an emergency fund if I cannot save much right now?",
+        "a": "Yes. A small starter fund still makes a real difference and can keep a minor setback from turning into debt. Begin with a reachable goal and grow the balance toward the full three-to-six-month target over time. Reaching early milestones builds momentum."
+      },
+      {
+        "q": "Should I keep predictable costs like insurance premiums in my emergency fund?",
+        "a": "No. Predictable expenses such as holiday gifts, annual insurance premiums, and routine car maintenance are costs you can see coming. Save for those separately so they do not drain the fund you set aside for true surprises. The emergency fund is meant for unexpected, urgent shocks."
+      },
+      {
+        "q": "Is it okay to invest my emergency fund to earn higher returns?",
+        "a": "It is better not to. Stocks, crypto, and similar volatile assets can drop in value at exactly the wrong time, leaving you short when an emergency hits. The job of this money is to be there when you need it, so safety and quick access matter more than returns."
+      },
+      {
+        "q": "What should I do after I spend part of my emergency fund?",
+        "a": "Make refilling it a priority before you return to other goals. Resuming or increasing your recurring transfer helps rebuild the balance steadily. Treat the fund as a living number, and review it once or twice a year as your bills or family size change."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://consumer.gov/",
+        "label": "Consumer.gov — managing your money basics",
+        "note": "Plain-language guides on saving, budgeting, and managing everyday money"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Official resources on savings accounts and building emergency savings"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-debt-to-income-ratio",
+    "takeaways": [
+      "Your debt-to-income ratio compares total monthly debt payments against your gross monthly income, shown as a percentage.",
+      "DTI usually counts required loan payments, not everyday costs like groceries, utilities, or streaming subscriptions.",
+      "Lenders use DTI to judge whether you can comfortably handle a new payment, with lower ratios viewed more favorably.",
+      "You can improve DTI from either side: paying down debt or growing stable, verifiable income.",
+      "DTI differs from credit score and utilization because it weighs your income, which those measures ignore entirely."
+    ],
+    "faq": [
+      {
+        "q": "Does my DTI include things like groceries and utility bills?",
+        "a": "No. DTI focuses on payments you are contractually required to make, such as loans and minimum credit card payments. Everyday expenses like groceries, utilities, gas, and streaming subscriptions are normally left out because they are not fixed loan obligations."
+      },
+      {
+        "q": "Can I have a great credit score but still get questioned over my DTI?",
+        "a": "Yes. Your credit score is built from borrowing history and does not factor in your income. DTI is calculated separately by the lender using your income and debt details, so a high ratio can raise questions even with an excellent score."
+      },
+      {
+        "q": "Is it better to pay off a small loan or just lower a balance?",
+        "a": "Paying off a loan entirely removes its monthly payment from the calculation, which can help your ratio more than just lowering a balance. Reducing balances helps too, but eliminating a required payment has a more direct effect on DTI."
+      },
+      {
+        "q": "When should I start improving my DTI before applying for a loan?",
+        "a": "It helps to start months in advance rather than weeks, especially for a major application like a mortgage. Small, steady changes are easier to sustain, and you should avoid taking on new monthly payments right before you apply."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB - Ask CFPB consumer answers",
+        "note": "Plain-language answers on debt, DTI, loans, and applying for credit"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Official consumer guidance on mortgages, loans, and managing debt"
+      }
+    ]
+  },
+  {
+    "slug": "google-career-certificates-overview",
+    "takeaways": [
+      "Google Career Certificates teach entry-level job skills online, with no degree or prior tech experience required to start.",
+      "Common fields include IT support, data analytics, project management, UX design, and cybersecurity.",
+      "Programs are self-paced and use a subscription model, so finishing faster can lower your total cost.",
+      "Treat a certificate as a credible entry-level signal, not a replacement for a required college degree.",
+      "They help career switchers and first-credential learners most, especially when paired with practice projects."
+    ],
+    "faq": [
+      {
+        "q": "Do I need a college degree or tech background to start a Google Career Certificate?",
+        "a": "No. These programs are built for people starting fresh, including career switchers and those earning a first credential. You do not need a degree, a tech background, or prior experience to begin. The material starts with the basics of each field."
+      },
+      {
+        "q": "Can a Google Career Certificate replace a college degree when applying for jobs?",
+        "a": "Not generally. A certificate is an entry-level signal that you have learned the basics and can handle starter tasks, but it does not replace a degree where one is genuinely required. Employers vary in how much weight they give certificates. It works best as one part of an application alongside a resume and practice projects."
+      },
+      {
+        "q": "How can I tell if a certificate fits the job I want?",
+        "a": "Look at real job postings for your target role and note what they actually ask for. If many welcome certificates or hands-on skills over a degree, the program may fit your plan. If almost all demand a degree, you can adjust your expectations early."
+      },
+      {
+        "q": "How long does a Google Career Certificate take to finish?",
+        "a": "The certificates are self-paced with no fixed class times, so your timeline depends on how many hours you study each week. Google describes most programs as something people can finish in a number of months studying part-time. Check the official site for current details before enrolling."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://grow.google/certificates/",
+        "label": "Grow with Google — Career Certificates",
+        "note": "Official source for current programs, timelines, and subscription terms"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Online platform where many of these certificate courses run"
+      }
+    ]
+  },
+  {
+    "slug": "how-to-choose-a-coding-bootcamp",
+    "takeaways": [
+      "Treat a bootcamp as a real financial commitment and run your own due diligence before paying anything.",
+      "Scrutinize placement statistics, favoring outcomes reports verified by an independent third party over self-reported numbers.",
+      "Judge curriculum by depth and real portfolio projects, not by the trendy tools listed on the homepage.",
+      "Read every refund, deferral, and financing clause, including income-share agreements, before signing any contract.",
+      "Test your interest with free or low-cost resources first, and walk away from guaranteed-job claims or pressure tactics."
+    ],
+    "faq": [
+      {
+        "q": "Are coding bootcamps worth the money?",
+        "a": "It depends on the school you pick and how carefully you vet it before enrolling. A bootcamp can teach focused, practical skills quickly, but it cannot guarantee a job, since hiring depends on the market, your effort, and where you live. The best way to judge value is to verify outcomes, study the curriculum, and test your interest cheaply first."
+      },
+      {
+        "q": "Can I learn enough to land a job in just a few months?",
+        "a": "A short program can teach you enough to build basic projects and keep learning on your own, but you likely won't master computer science fundamentals in a few weeks. Many graduates spend extra months job hunting and studying after the program ends. Knowing this upfront keeps the marketing in perspective."
+      },
+      {
+        "q": "What warning signs suggest a bootcamp is not trustworthy?",
+        "a": "Be skeptical of guaranteed-job claims, since no school controls who hires you. High-pressure sales tactics, like a discount that disappears if you don't enroll today, are another reason to slow down. Opaque outcome data, recruiters who dodge direct questions, and reviews that all sound identical are further red flags."
+      },
+      {
+        "q": "How can I try coding before paying for a bootcamp?",
+        "a": "Plenty of free and low-cost resources let you test whether you enjoy coding. Free interactive tutorials, open courseware from universities, public documentation, and inexpensive video courses can all teach the basics. If you can build a few small projects and still want more, a paid bootcamp may be worth it; if you lose interest quickly, you've saved yourself a large bill."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Guidance on student loans and income-share agreement obligations before signing"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "How to spot high-pressure sales tactics and misleading guaranteed-job claims"
+      }
+    ]
+  },
+  {
+    "slug": "free-online-courses-worth-your-time",
+    "takeaways": [
+      "Trustworthy free learning lives at university OpenCourseWare, nonprofits like Khan Academy, audited MOOCs, OpenLearn, and public libraries.",
+      "Free usually means access to the teaching, not certificates, graded work, instructor feedback, or transferable academic credit.",
+      "Pick courses by reading the syllabus, checking how recent the material is, and trusting a named source.",
+      "OpenCourseWare suits structured subjects like math and engineering but requires self-discipline with no instructor or deadlines.",
+      "Turn free study into proof by building a real project and collecting your work in a simple portfolio."
+    ],
+    "faq": [
+      {
+        "q": "Is free online learning actually as good as paid courses?",
+        "a": "Often the teaching itself is the same, since many free courses come from the same universities and nonprofits that run paid programs. What free usually leaves out is the certificate, graded assignments, and instructor feedback, not the quality of the lectures and materials. If your goal is to understand a topic rather than earn a credential, free is frequently all you need."
+      },
+      {
+        "q": "How can I show an employer what I learned if there is no certificate?",
+        "a": "Build something real that demonstrates the skill, such as a small website if you studied web development or a written analysis of a public dataset. Collect your projects in one place, like a portfolio site, a code repository, or a folder of writing samples. Keep short notes on what each project taught you so you can point to concrete work when applying."
+      },
+      {
+        "q": "What does it mean to audit a course, and is it really free?",
+        "a": "Auditing usually lets you watch the lectures and read the materials at no cost, while the paid track adds graded assignments, instructor feedback, and a certificate. It is a smart way to sample a subject or a teacher before paying, or to gain knowledge when you do not need a credential. The exact rules vary by course and can change, so confirm what audit includes before you enroll."
+      },
+      {
+        "q": "How do I tell a serious course from a thin or outdated one?",
+        "a": "Start by reading the syllabus; a clear one lists what you will learn, in what order, and what you should already know. Check how recent the material is, especially for fast-moving fields like software and marketing where old steps may no longer apply. Also favor material from a named university, recognized nonprofit, or known expert over an anonymous upload."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://ocw.mit.edu/",
+        "label": "MIT OpenCourseWare",
+        "note": "Free lecture notes, problem sets, and videos from real classes"
+      },
+      {
+        "url": "https://www.khanacademy.org/",
+        "label": "Khan Academy",
+        "note": "Free nonprofit lessons and practice across core subjects"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "University and company courses you can often audit free"
+      },
+      {
+        "url": "https://www.edx.org/",
+        "label": "edX",
+        "note": "University-built courses with free audit options to sample"
+      }
+    ]
+  },
+  {
+    "slug": "certificates-vs-degrees",
+    "takeaways": [
+      "Certificates teach specific skills quickly and cheaply, while degrees cover a whole subject over a longer, costlier stretch.",
+      "A certificate often suffices when employers prioritize what you can do over how long you studied.",
+      "Licensed professions and degree-filtering employers usually require a full degree that no certificate can replace.",
+      "Stacking credentials lets you start small, earn while learning, and build toward a degree as goals firm up.",
+      "Read real job postings and verify time, cost, and transfer rules with the provider before paying."
+    ],
+    "faq": [
+      {
+        "q": "Will a certificate help me change careers into a new field?",
+        "a": "A certificate can be a strong career-switching tool because it gives focused proof that you can handle the new role. It works best when target job postings emphasize specific skills or tools rather than a required degree. Read several real listings in your new field first to confirm what employers actually expect."
+      },
+      {
+        "q": "Can credits from a certificate count toward a degree later?",
+        "a": "Sometimes, but the rules vary widely between programs and schools. Some certificate coursework transfers toward a related degree, and some does not. Confirm with the school whether your earlier work will transfer before you enroll, not after, so you avoid repeating courses or losing money."
+      },
+      {
+        "q": "How do I decide between a certificate and a degree for my goal?",
+        "a": "Start by reading several real job postings in your target field and noticing what they require. If they ask for a degree, a certificate alone may stall you; if they list specific skills, a certificate may be the faster route. Match the credential to the career you actually want rather than choosing by default."
+      },
+      {
+        "q": "Is it risky to commit to a long degree program right away?",
+        "a": "It can be, which is why many people stack credentials instead. Starting with a shorter certificate lets you test whether you enjoy a field and earn while you learn before committing to a longer, costlier program. You can pursue a degree later once you are confident the path is right."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Browse professional certificates and university courses across many fields."
+      },
+      {
+        "url": "https://www.edx.org/",
+        "label": "edX",
+        "note": "Explore university-backed certificates and courses to test a field."
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Understand financial aid options before committing to a degree."
+      }
+    ]
+  },
+  {
+    "slug": "linkedin-learning-overview",
+    "takeaways": [
+      "LinkedIn Learning is a subscription video library covering business, technology, and creative skills for busy working adults.",
+      "One recurring fee unlocks the whole catalog, rewarding people who plan to take several short, self-paced courses.",
+      "Completion certificates can post to your LinkedIn profile but mainly show effort, not tested, verified expertise.",
+      "Check your library, employer, or school first, since many already provide free access to the catalog.",
+      "It excels at quick upskilling and soft skills but is light on depth and formal credentials."
+    ],
+    "faq": [
+      {
+        "q": "Do I lose my certificates if I cancel my LinkedIn Learning subscription?",
+        "a": "Your access to the course library generally ends when you cancel, since membership works like a streaming subscription. However, any certificates you already earned remain on your record. So you keep the credit for completed courses even after you stop paying."
+      },
+      {
+        "q": "Will employers take a LinkedIn Learning certificate seriously?",
+        "a": "Employers usually read these certificates as a sign of self-motivation and curiosity rather than proof of deep, tested expertise. A certificate of completion mainly confirms you watched the lessons, not that you passed graded exams. They look best stacked alongside real work samples, a portfolio, or a recognized industry credential."
+      },
+      {
+        "q": "Can LinkedIn Learning replace a college course or industry certification?",
+        "a": "It is better treated as a supplement than a replacement for formal qualifications. Most courses are short and lack graded assignments, peer feedback, or rigorous testing, so they rarely take you to an expert level alone. If you need a recognized qualification, a structured certificate program, bootcamp, or college course may serve you better."
+      },
+      {
+        "q": "Is LinkedIn Learning worth paying for out of pocket?",
+        "a": "It offers good value if you plan to take many courses, since one fee unlocks the entire library. Before paying, though, check whether your library, employer, school, or a professional association already provides free access. If a covered option exists, you get the same catalog without the recurring charge."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.linkedin.com/learning/",
+        "label": "LinkedIn Learning — official site",
+        "note": "Confirm current plans, free trials, and the full course catalog"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Compare with credentialed courses and structured certificate programs"
+      }
+    ]
+  },
+  {
+    "slug": "income-driven-repayment-explained",
+    "takeaways": [
+      "Income-driven repayment sets your federal loan payment from income and family size, not your loan balance.",
+      "Payments use a share of discretionary income, so they can be small or even zero for low earners.",
+      "You must recertify income and household details regularly, usually each year, to keep the right payment.",
+      "Remaining balances may be forgiven after a long qualifying period that runs much longer than a standard plan.",
+      "Small payments can let interest grow your balance, and you may pay more total interest over time."
+    ],
+    "faq": [
+      {
+        "q": "Does income-driven repayment work for private student loans?",
+        "a": "No. These income-driven plans generally apply only to federal student loans, not private loans. If you hold private loans, you would contact that lender directly about any income-based options it offers, which work differently. Confirm the current details with the official source or your servicer."
+      },
+      {
+        "q": "What happens to my payment if my income drops during the year?",
+        "a": "Because the amount depends on your income and family size, you can often ask to recalculate sooner instead of waiting for your next scheduled recertification. This may help after something like a job loss. Check the steps and timing on studentaid.gov or with your loan servicer."
+      },
+      {
+        "q": "Is a zero-dollar monthly payment really possible?",
+        "a": "Yes. When your income is low enough, the calculated payment can be zero dollars for a period. A zero-dollar payment still counts as a payment you made, as long as you stay enrolled and meet the plan's rules."
+      },
+      {
+        "q": "Is income-driven repayment the cheapest way to pay off my loans?",
+        "a": "Not necessarily. These plans solve an affordability problem rather than being the lowest-cost option overall. Smaller payments may not cover the interest, so your balance can grow, and stretching repayment over many years can mean more total interest than a shorter plan."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/manage-loans/repayment/plans/income-driven",
+        "label": "Federal Student Aid — Income-driven repayment",
+        "note": "Current IDR plans, who qualifies, and how payments are calculated."
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Official hub for federal loans, the loan simulator, and recertification."
+      }
+    ]
+  },
+  {
+    "slug": "subsidized-vs-unsubsidized-loans",
+    "takeaways": [
+      "Both subsidized and unsubsidized Direct Loans require the FAFSA, but they differ in who pays in-school interest.",
+      "On subsidized loans the government covers interest during school, the grace period, and approved deferment.",
+      "Unsubsidized loans accrue interest from disbursement onward, and nobody covers it for you.",
+      "Accept grants, then subsidized loans, then unsubsidized only for the remaining gap, borrowing the smallest total needed.",
+      "Paying interest while in school prevents capitalization, keeping your balance at what you actually borrowed."
+    ],
+    "faq": [
+      {
+        "q": "Can graduate students get a subsidized federal loan?",
+        "a": "No. Direct Subsidized Loans are offered only to undergraduate students who demonstrate financial need. Graduate students are not eligible for the subsidized type, though they can use unsubsidized loans, which do not require showing need."
+      },
+      {
+        "q": "What does it mean when student loan interest capitalizes?",
+        "a": "Capitalization is when unpaid interest gets added to your principal balance. After that you pay interest on top of interest, because the amount you owe is now larger than what you originally borrowed. It can happen at points like when your grace period ends and repayment begins."
+      },
+      {
+        "q": "Do I have to accept every loan dollar my school offers?",
+        "a": "No. You are not required to take every dollar in your aid package, and borrowing less is almost always the better long-term move. Accept the subsidized amount first, then use unsubsidized loans only for the gap that remains."
+      },
+      {
+        "q": "Should I make payments on my loans while still in school?",
+        "a": "You are usually not required to pay federal student loans while enrolled at least half-time, but on unsubsidized loans you are allowed to. Making small interest-only payments keeps interest from capitalizing later. If that is not realistic, just plan for a larger balance when repayment begins."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized",
+        "label": "Federal Student Aid — Subsidized and unsubsidized loans",
+        "note": "Official details on eligibility, interest, and current loan limits"
+      },
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid — FAFSA application",
+        "note": "Where to file the FAFSA required for both loan types"
+      }
+    ]
+  },
+  {
+    "slug": "student-loan-default-and-recovery",
+    "takeaways": [
+      "Delinquency begins the day after a missed payment, while default arrives only after months of nonpayment.",
+      "Default can seriously damage your credit, trigger collections, and cost you access to federal aid and repayment plans.",
+      "Federal loans in default can usually be recovered through rehabilitation, consolidation, or paying the balance in full.",
+      "Contacting your servicer before you miss a payment opens the widest range of lower-cost options.",
+      "Income-driven repayment, deferment, and forbearance can lower or pause payments while a loan stays in good standing."
+    ],
+    "faq": [
+      {
+        "q": "Will recovering from default remove the damage from my credit?",
+        "a": "It depends on the path you take. With loan rehabilitation, the record of the default is typically removed from your credit history once you complete the agreed steps. However, the earlier late payments may still remain, so recovery improves your standing without erasing everything."
+      },
+      {
+        "q": "Should I call my loan servicer if I think I'll miss a payment?",
+        "a": "Yes, reaching out early is the strongest move you can make. Servicers manage your loans day to day and would rather help you stay current than chase a defaulted account. A short conversation can reveal options like lower or paused payments that you did not know existed."
+      },
+      {
+        "q": "Do these default and recovery rules apply to private student loans too?",
+        "a": "No, this guidance focuses on federal loans, which have their own rules and recovery options. Private loans work differently, so you should always check directly with that lender. For federal loans, confirm current programs and terms on the official source before deciding."
+      },
+      {
+        "q": "Is defaulting on a student loan a permanent situation?",
+        "a": "Default is serious but rarely permanent. Many of its consequences can be paused or reversed once you take a recovery step. Paths like rehabilitation, consolidation, or paying in full can bring a federal loan back to good standing."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/manage-loans/default",
+        "label": "Federal Student Aid — Loan default",
+        "note": "Official details on default consequences and recovery options for federal loans"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Official starting point for current federal repayment plans and terms"
+      }
+    ]
+  },
+  {
+    "slug": "parent-plus-loans-explained",
+    "takeaways": [
+      "A Parent PLUS loan is a federal loan the parent legally owns and repays, not the student.",
+      "The borrowing limit reaches the full cost of attendance minus other aid, so treat it as a ceiling, not advice.",
+      "Repayment options are narrower than a student's loans; consolidation can unlock at least one income-driven plan.",
+      "The debt stays with the parent even if the child does not finish school or finds work hard.",
+      "Exhaust the student's own federal loans, payment plans, and cheaper schools before borrowing PLUS funds."
+    ],
+    "faq": [
+      {
+        "q": "Can a Parent PLUS loan be transferred to my child later?",
+        "a": "The federal program has no feature that moves the loan into the student's name. Families can arrange informal repayment between themselves, but that is private. To make the debt legally your child's, you generally refinance with a private lender, which means losing federal protections."
+      },
+      {
+        "q": "Do Parent PLUS loans require a credit check?",
+        "a": "Yes, but it is lighter than what private lenders use. The program mainly checks for an adverse credit history rather than weighing your income against your debts, so many parents qualify without a high score. If you do not pass, options like adding an endorser or documenting circumstances may still help."
+      },
+      {
+        "q": "Can I pause Parent PLUS payments while my child is in school?",
+        "a": "Parents can often request to delay payments while the student is enrolled, and repayment generally begins soon after the loan fully disburses otherwise. Keep in mind that interest still adds up during any pause, so a delayed start is not free."
+      },
+      {
+        "q": "What happens to the loan if my child drops out or cannot find work?",
+        "a": "The loan remains yours to repay regardless of whether your child finishes the degree or struggles to find work. There is no automatic forgiveness if your plans or finances change, and federal loans rarely qualify for bankruptcy discharge. Borrow with the full multi-year cost in mind."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/understand-aid/types/loans/plus/parent",
+        "label": "Federal Student Aid — Parent PLUS loans",
+        "note": "Official eligibility, credit check, borrowing limit, and repayment details"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Apply for aid and confirm current loan rules before signing"
+      }
+    ]
+  },
+  {
+    "slug": "private-vs-federal-student-loans",
+    "takeaways": [
+      "Federal loans use fixed rates set by law, rarely need credit checks, and include built-in repayment protections.",
+      "Private loans come from banks and lenders that price by credit, so offers vary widely between borrowers.",
+      "Borrow in order: scholarships and grants first, then federal loans, and private loans only to fill gaps.",
+      "Compare private offers on rate type, fees, cosigner release, and hardship policy, not just the headline rate.",
+      "Refinancing federal loans into private ones is permanent and strips away federal protections for good."
+    ],
+    "faq": [
+      {
+        "q": "Do I need good credit or a cosigner to get a federal student loan?",
+        "a": "Most undergraduate federal student loans do not require a credit check or a cosigner. That makes them reachable for students with little or no credit history. Private loans, by contrast, are priced on credit and often consider a cosigner's credit too."
+      },
+      {
+        "q": "Are private student loans always a bad choice?",
+        "a": "No. For some families, a private loan is a reasonable way to close a gap after scholarships, grants, savings, and federal loans run out. The key is using the lower-risk options first and turning to private borrowing only for the amount you truly need."
+      },
+      {
+        "q": "Why does refinancing federal loans into a private loan deserve caution?",
+        "a": "Once federal loans become private, they lose federal protections permanently. You give up income-driven repayment, federal hardship pauses, and forgiveness programs. A slightly lower rate may not be worth losing those safety nets, especially if your income is uncertain."
+      },
+      {
+        "q": "What is cosigner release on a private student loan?",
+        "a": "Cosigner release is the lender's process for removing a cosigner after you make a set number of on-time payments. It is worth asking about when comparing offers, since the terms differ between lenders. Always confirm the current details in writing before you sign."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Apply with the FAFSA and review official federal loan terms"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Guidance on comparing private loan offers and borrower protections"
+      }
+    ]
+  },
+  {
+    "slug": "khan-academy-review",
+    "takeaways": [
+      "Khan Academy is a genuinely free, ad-free nonprofit platform, making it a low-risk way to try online study.",
+      "It is strongest in K-12 math and core science, pairing short videos with mastery-based practice and instant feedback.",
+      "It also covers economics and basic personal finance as introductions, not complete guides for real money decisions.",
+      "It does not issue recognized certificates or degrees and is light on advanced, niche professional skills.",
+      "Students, parents, and adults rebuilding fundamentals before a bigger paid program benefit the most from it."
+    ],
+    "faq": [
+      {
+        "q": "Is Khan Academy actually free, or are there hidden charges?",
+        "a": "Khan Academy is genuinely free, with no ads and no paywall on its core content. You make an account and start learning without a trial that turns into a charge or upsells pushing a paid tier. Because it is run by a nonprofit, its incentives lean toward keeping the content open rather than locking it behind a subscription."
+      },
+      {
+        "q": "Can I put a Khan Academy course on my resume as a credential?",
+        "a": "No. Khan Academy is a learning tool, not a certificate program, so it does not issue degrees or the recognized certificates employers screen for. If your goal is a credential to qualify for a job, this is not the platform for that step. It works better for building knowledge and skills than for proving them to an employer."
+      },
+      {
+        "q": "How does Khan Academy actually teach a subject?",
+        "a": "It pairs short explainer videos with practice problems, and the practice is mastery-based, so you work toward showing you understand a skill rather than just watching a clip. You get instant feedback when you answer, plus hints and step-by-step explanations when you get stuck. This loop of explain, practice, and correct is the platform's strongest feature."
+      },
+      {
+        "q": "Is Khan Academy a good way to prepare before a paid course or bootcamp?",
+        "a": "Yes, especially for adults rebuilding fundamentals. If your math feels rusty before a paid course, a bootcamp, or a college program, it is a sensible free warm-up. Strengthening the basics first can make a later paid program go more smoothly and feel less overwhelming. Just confirm current course and test-prep details on the official site before planning around them."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.khanacademy.org/",
+        "label": "Khan Academy — official site",
+        "note": "Browse current courses, practice, and test-prep tools directly"
+      },
+      {
+        "url": "https://ocw.mit.edu/",
+        "label": "MIT OpenCourseWare",
+        "note": "Free university course materials for deeper, advanced self-study"
+      }
+    ]
+  },
+  {
+    "slug": "udemy-review",
+    "takeaways": [
+      "Udemy is an open marketplace where independent instructors publish courses, so quality varies widely from one course to the next.",
+      "Its strengths are an enormous catalog, low sale prices, lifetime access, free previews, and student ratings on every course.",
+      "Weaknesses include no accreditation, certificates that carry little weight, outdated content, and an overwhelming number of similar listings.",
+      "Buy smart by checking the last-updated date, watching free previews, reading three-star reviews, and favoring proven instructors.",
+      "Udemy suits self-motivated learners chasing practical skills, not those needing accredited training or a recognized credential."
+    ],
+    "faq": [
+      {
+        "q": "Are Udemy certificates worth anything to employers?",
+        "a": "Udemy completion certificates carry little formal weight because the platform has no accreditation and courses are not vetted by an academic body. They can show effort and may be a small addition to a resume, but most employers and schools do not treat them as a real credential. If you need a recognized qualification, Udemy is not the right tool."
+      },
+      {
+        "q": "Should I pay the full list price on Udemy?",
+        "a": "Usually not. Udemy lists high prices but runs frequent sales, so courses are often sold at a steep discount and the list price is rarely what people actually pay. It is generally worth waiting for or looking for a sale before checking out. Because promotions change often and vary by account and region, confirm the current price on the official site first."
+      },
+      {
+        "q": "How can I tell if a Udemy course is good before buying it?",
+        "a": "Do a little homework first. Check the last-updated date and favor recently updated courses for fast-changing topics, watch the free preview lectures to judge the teaching style and audio quality, and read the reviews. The three-star reviews are often the most honest, since they name specific weaknesses while staying fair."
+      },
+      {
+        "q": "What kind of learner is Udemy best for?",
+        "a": "Udemy fits self-motivated learners who want practical skills and can manage their own pace, such as picking up a specific tool, exploring a hobby, or refreshing knowledge on a budget. It is a weaker fit if you need accredited training, college credit, or a weighty certificate, or if you prefer structure with instructors and deadlines."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.udemy.com/",
+        "label": "Udemy",
+        "note": "Confirm current course details, pricing, and sale terms"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Alternative course platform to compare before you buy"
+      }
+    ]
+  },
+  {
+    "slug": "edx-review",
+    "takeaways": [
+      "edX offers university-style courses with structured modules, problem sets, and exams drawn from real academic faculty.",
+      "Many courses can be audited free, giving access to lecture videos and core reading material.",
+      "Paying typically unlocks graded work, extended access, and a verified certificate tied to the partner school.",
+      "Stackable programs group related courses into larger, degree-adjacent credentials set by partner institutions.",
+      "edX suits self-disciplined learners, though per-course fees add up and the catalog changes over time."
+    ],
+    "faq": [
+      {
+        "q": "Is edX free to use?",
+        "a": "Many edX courses let you enroll and audit the core material at no cost, including lecture videos and readings. Audit access often excludes graded assignments, feedback, and the certificate, and some courses limit how long you can access the content. Because the rules differ by course, check the specific enrollment page before assuming what free mode includes."
+      },
+      {
+        "q": "What do you get when you pay for an edX course?",
+        "a": "Paying usually unlocks a verified certificate tied to your identity and the partner institution's name. It often also opens graded quizzes, assignments, and exams, plus extended or full access to the material. Certificates are charged per course, so confirm the current cost on the official course page before upgrading."
+      },
+      {
+        "q": "Can edX courses count toward a real degree?",
+        "a": "Some stackable programs are designed as building blocks that may count toward a full degree at a partner school. However, the rules for credit transfer and admission are set by the partner institution, not the platform, and these terms shift over time. If academic credit matters, verify the current arrangement directly with both edX and the school before paying."
+      },
+      {
+        "q": "Who is edX best suited for?",
+        "a": "edX fits academically inclined learners who want university-style courses and are comfortable studying on their own. Most courses are self-paced, which rewards discipline but can make finishing harder for some people. If you mainly want to learn rather than earn a credential, the free audit path is a strong reason to sign up."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.edx.org/",
+        "label": "edX — official site",
+        "note": "Confirm current courses, certificate fees, audit rules, and program terms"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Compare another platform offering university courses and paid certificates"
+      }
+    ]
+  },
+  {
+    "slug": "duolingo-review",
+    "takeaways": [
+      "Duolingo's free, game-like lessons lower the barrier to starting a language and make daily practice feel rewarding.",
+      "Streaks, reminders, and short sessions excel at building a consistent study habit over months.",
+      "The app builds vocabulary and reading basics well but is weak on speaking and real conversation.",
+      "Grammar explanations are thin, and the app has a ceiling around early intermediate level.",
+      "Treat Duolingo as a first step and habit-builder, pairing it with tutors, media, or conversation for fluency."
+    ],
+    "faq": [
+      {
+        "q": "Is the free version of Duolingo good enough on its own?",
+        "a": "Yes, the free tier is genuinely usable and can carry beginners a long way by itself. It is supported by ads and has some limits, such as caps on mistakes. The paid subscription mostly buys convenience and a smoother experience rather than secret lessons."
+      },
+      {
+        "q": "Can Duolingo make me fluent in a language?",
+        "a": "No, Duolingo cannot make you fluent by itself, and it does not really claim to. It can take you through beginner and into early intermediate levels, but confident, conversational fluency needs more. Reaching that point almost always requires supplementing the app with conversation practice and richer input."
+      },
+      {
+        "q": "What is Duolingo best at teaching?",
+        "a": "Its strongest features are building a daily habit and growing a base of vocabulary and reading recognition. Through repetition you absorb common words, basic sentence patterns, and the sounds of a language. It is especially friendly for total beginners and travel basics."
+      },
+      {
+        "q": "Who should look beyond Duolingo for learning?",
+        "a": "Learners whose main goal is to speak fluently soon, pass an advanced exam, or understand grammar deeply are a weaker fit. They will still benefit from the vocabulary practice but should pair it with speaking practice and other resources from the start. It works best as one piece of a larger plan."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.duolingo.com/",
+        "label": "Duolingo",
+        "note": "Confirm current features, languages, and any subscription terms before deciding"
+      }
+    ]
+  },
+  {
+    "slug": "skillshare-review",
+    "takeaways": [
+      "Skillshare is a single subscription that unlocks the full library of short, project-based creative classes.",
+      "Its strengths are creative breadth, hands-on projects, and friendly teaching from working practitioners.",
+      "Weaknesses include uneven quality, shallow technical and business content, and essentially no credential value.",
+      "It fits hobbyists and working creatives wanting inspiration far better than anyone chasing recognized qualifications.",
+      "Confirm current pricing and free trial terms on the official site before you commit."
+    ],
+    "faq": [
+      {
+        "q": "Does finishing a Skillshare class give you a recognized certificate?",
+        "a": "No, Skillshare does not offer accredited certificates or degrees, and most employers will not weigh a finished class. Treat it as a way to build skills and a portfolio rather than formal paperwork. If you need a recognized qualification, look at platforms built for that purpose."
+      },
+      {
+        "q": "Is Skillshare a good way to learn coding, data, or finance?",
+        "a": "Not really. Skillshare is built around creative subjects, and its technical and business classes tend to stay at an introductory level. People who need serious depth in coding, data, or finance are usually better served by platforms designed for those fields."
+      },
+      {
+        "q": "How is learning on Skillshare evaluated?",
+        "a": "There are no grades, exams, or expert grading. Instead, classes use community project galleries where you can upload your work, see what others made, and exchange feedback. This peer interaction is encouraging and low-pressure, but it is not a substitute for structured assessment."
+      },
+      {
+        "q": "Is a Skillshare subscription worth the money?",
+        "a": "It depends on your goal. The all-you-can-watch model pays off for hobbyists and working creatives who use it steadily for exploration and quick technique refreshers. It is a poor value if you want technical depth or a credential for your resume. Check current pricing and trial details before deciding."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.skillshare.com/",
+        "label": "Skillshare — official site",
+        "note": "Confirm current subscription pricing, free trial terms, and class catalog"
+      },
+      {
+        "url": "https://www.udemy.com/",
+        "label": "Udemy",
+        "note": "Compare a pay-per-class platform with broader technical and business courses"
+      }
+    ]
+  }
+]

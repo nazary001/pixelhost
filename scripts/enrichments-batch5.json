@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "what-is-a-529-plan",
+    "takeaways": [
+      "A 529 plan is a state-sponsored, tax-advantaged account for education costs where money grows tax-free and qualified withdrawals are not federally taxed.",
+      "There are two types: market-based education savings plans usable at most accredited schools, and prepaid tuition plans that lock in in-state public tuition with more restrictions.",
+      "Contributions are not federally deductible, but many states offer their own deduction or credit, and two limits apply: the annual gift-tax exclusion and a per-beneficiary aggregate cap.",
+      "The account owner keeps control, the beneficiary can usually be changed to a family member, and a parent-owned 529 has a relatively small effect on need-based aid.",
+      "Unused funds can trigger a tax and penalty on earnings if withdrawn for non-education uses, though exceptions like scholarships and Roth IRA rollovers exist."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to use my own state's 529 plan?",
+        "a": "Usually not. You are generally free to invest in another state's education savings plan, and the money can typically be used at accredited schools across the country. The main reason to consider your home state first is that many states offer a tax deduction or credit only for contributing to their own plan. Weigh that state tax break against the fees and quality of out-of-state options."
+      },
+      {
+        "q": "Are there limits on how much I can contribute to a 529?",
+        "a": "Yes, in two forms. Contributions tie into the annual federal gift-tax exclusion, which sets how much one person can give per year before gift-tax reporting applies, and the IRS allows a special election to front-load several years at once. Separately, each state plan sets a per-beneficiary aggregate cap on the total balance allowed. Both figures change over time, so confirm the current numbers with the IRS and your state plan."
+      },
+      {
+        "q": "What happens to the money if my child does not go to college or gets a scholarship?",
+        "a": "You have several options. You can often change the beneficiary to another eligible family member who will use the funds. If the beneficiary receives a scholarship, IRS guidance generally lets you withdraw up to that amount without the usual penalty, though tax on earnings may still apply. Newer rules also allow leftover funds to be rolled into the beneficiary's Roth IRA under specific conditions and limits."
+      },
+      {
+        "q": "Will a 529 plan hurt my child's chances of getting financial aid?",
+        "a": "Probably less than you fear. A 529 owned by a parent is generally treated as a parental asset, which is assessed at a relatively low rate in need-based aid formulas, so the effect is usually modest. The treatment can differ for accounts owned by grandparents or others. Confirm how a specific account would be counted before making assumptions."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.irs.gov/newsroom/529-plans-questions-and-answers",
+        "label": "IRS — 529 Plans: Questions and Answers",
+        "note": "Official federal guidance on qualified expenses, tax treatment, gift-tax-related limits, and withdrawal and penalty rules; check here for current figures."
+      },
+      {
+        "url": "https://www.sec.gov/resources-for-investors/investor-alerts-bulletins/updated-investor-bulletin-introduction-529-plans",
+        "label": "SEC — An Introduction to 529 Plans",
+        "note": "Investor-focused overview explaining how savings and prepaid plans work, including fees and investment risk."
+      },
+      {
+        "url": "https://www.investor.gov/additional-resources/general-resources/glossary/529-plans",
+        "label": "SEC Investor.gov — 529 Plans (glossary)",
+        "note": "Concise definitions of the two plan types and key terms for first-time savers."
+      },
+      {
+        "url": "https://www.consumerfinance.gov/paying-for-college/",
+        "label": "CFPB — Paying for College",
+        "note": "Consumer tools and guidance for comparing the full cost of education, including how savings are treated when planning to pay."
+      }
+    ]
+  },
+  {
+    "slug": "are-online-degrees-respected-by-employers",
+    "takeaways": [
+      "A properly accredited online degree from a recognized university generally carries the same weight as its on-campus version, and at many schools the transcript does not even label it 'online.'",
+      "Employers judge accreditation, the institution's reputation, and your demonstrable skills far more than the delivery format.",
+      "The U.S. Department of Education recognizes accrediting agencies; use its DAPIP database to confirm a school lists a recognized accreditor before you enroll or pay.",
+      "Legitimate skepticism remains for weak for-profit schools with poor outcomes and for hands-on or licensure-bound fields that need in-person components.",
+      "Per the BLS 'Education Pays' chart, median earnings rise and unemployment falls as education level increases, though you should confirm the current figures at the source."
+    ],
+    "faq": [
+      {
+        "q": "Will employers know my degree was earned online?",
+        "a": "Often they will not, because at many schools the diploma and official transcript do not state the delivery format at all. A degree from a recognized university reads as a degree from that university. What an employer can see and verify is the school's name and its accreditation, which matter far more than whether you attended in person."
+      },
+      {
+        "q": "How do I check if an online school is accredited?",
+        "a": "Use the official tools rather than trusting the school's own claims. The U.S. Department of Education recognizes accrediting agencies, and its DAPIP database lets you look up an institution and the accreditor that backs it. Confirm both the school and a recognized accreditor appear there. If you cannot find the school, treat that as a serious warning sign and verify directly with the accreditor."
+      },
+      {
+        "q": "Are there fields where an online degree is a problem?",
+        "a": "Yes. Careers that require hands-on training, supervised clinical hours, physical labs, or state licensure, such as nursing, many lab sciences, and certain trades, often need in-person components and may not accept a fully online path. These requirements are set by accreditors and state boards and can change, so confirm in writing what employers or the relevant licensing board in your field require before enrolling."
+      },
+      {
+        "q": "How can I make my online degree more respected?",
+        "a": "Start by choosing an accredited, well-regarded school with strong graduate outcomes. Then build proof of ability: a portfolio of real projects, internships or relevant work experience, and a network of people who can vouch for you. Demonstrable skill increasingly sits alongside the credential, so lead with what you can do and let the accredited degree support it."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.ed.gov/laws-and-policy/higher-education-laws-and-policy/college-accreditation",
+        "label": "U.S. Department of Education — College Accreditation",
+        "note": "Explains how accreditation works and that the Department recognizes accrediting agencies rather than accrediting schools itself."
+      },
+      {
+        "url": "https://ope.ed.gov/dapip/",
+        "label": "U.S. Department of Education — Database of Accredited Postsecondary Institutions (DAPIP)",
+        "note": "Official tool to look up a school and confirm its accreditor is recognized before you enroll."
+      },
+      {
+        "url": "https://collegescorecard.ed.gov/",
+        "label": "U.S. Department of Education — College Scorecard",
+        "note": "Check graduate earnings and outcome data to gauge a school's real-world reputation."
+      },
+      {
+        "url": "https://www.bls.gov/emp/chart-unemployment-earnings-education.htm",
+        "label": "U.S. Bureau of Labor Statistics — Education Pays",
+        "note": "Current chart showing how earnings rise and unemployment falls as education level increases."
+      }
+    ]
+  }
+]

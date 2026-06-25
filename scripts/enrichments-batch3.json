@@ -1,0 +1,607 @@
+[
+  {
+    "slug": "what-is-a-credit-report",
+    "takeaways": [
+      "A credit report is your detailed borrowing history, while a credit score is a single number calculated from that history.",
+      "Three bureaus, Equifax, Experian, and TransUnion, each keep their own file, so reports can differ and all three are worth checking.",
+      "A report holds your identity details, credit accounts and payment history, public records, inquiries, and collections.",
+      "Only people with a valid reason or your consent, such as lenders, landlords, and some employers, can see your report.",
+      "You can get free reports through the official annual-report channel and dispute any errors with the bureau showing them."
+    ],
+    "faq": [
+      {
+        "q": "Does checking my own credit report hurt my credit?",
+        "a": "No. Reviewing your own report counts as a soft inquiry, which does not affect your score. Only hard inquiries, which happen when you apply for new credit, can have a small, temporary effect. You can check your own report as often as you like without worry."
+      },
+      {
+        "q": "Why do my reports from the three bureaus look different?",
+        "a": "Each bureau keeps its own file, and lenders do not always report to all three. A lender might send updates to one bureau but not another, or report to one before the others. As a result, an account or a late payment can appear on one report and not on the rest, which is why checking all three is smart."
+      },
+      {
+        "q": "What should I do if I spot a mistake on my credit report?",
+        "a": "You have the right to dispute it. Contact the bureau showing the error, explain what is wrong, and include any supporting documents. The bureau investigates, usually by checking with the company that reported the information, and the item should be corrected or removed if it cannot be verified. Keep copies of everything you send and follow up if you do not hear back."
+      },
+      {
+        "q": "How long do negative items stay on a credit report?",
+        "a": "As a general rule, late payments and most collections typically remain for about seven years, while some bankruptcies can stay around ten years. Positive accounts in good standing can stay much longer, which helps you. Because exact rules depend on the item and situation, confirm the specifics for anything on your own report."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/",
+        "label": "CFPB — Credit reports and scores",
+        "note": "Official guidance on what reports contain and how to check them"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Consumer guidance on credit, disputes, and identity protection"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-English answers to common credit report questions"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-apr",
+    "takeaways": [
+      "APR is the yearly cost of borrowing shown as a percentage, and for some products it includes certain fees.",
+      "Because APR can fold in fees, it often runs higher than the plain interest rate, especially on mortgages.",
+      "APR applies when you borrow, while APY applies when you earn and accounts for compounding.",
+      "A fixed APR stays steady, but a variable APR moves with a benchmark rate, raising your cost when that index rises.",
+      "Use APR as a strong first filter for similar offers, but also weigh the rate, fees, term, and total repaid."
+    ],
+    "faq": [
+      {
+        "q": "Why is my mortgage APR higher than the interest rate I was quoted?",
+        "a": "On mortgages, APR is built to include fees like origination charges and certain points paid up front, on top of the basic interest charge. Because those costs are rolled in, the mortgage APR ends up higher than the quoted interest rate. This is why a loan with a lower rate but high fees can actually cost more than a competing loan."
+      },
+      {
+        "q": "If two loan offers have the same APR, are they equally good?",
+        "a": "Not necessarily. APR assumes you keep the loan for its full stated term, which often is not what happens, and it does not capture everything, such as how a variable rate might move later. You should still compare the interest rate, the fees, the loan length, and the total amount you will actually repay before deciding."
+      },
+      {
+        "q": "Does a single credit card really have more than one APR?",
+        "a": "Yes. One card agreement can list several APRs, each tied to a different use, such as purchases, cash advances, balance transfers, penalties, and an introductory rate. These can differ a lot, so it pays to know which APR applies to what you are actually doing. A low purchase APR will not help you if you mostly take cash advances at a much higher rate."
+      },
+      {
+        "q": "What is the difference between a fixed and a variable APR?",
+        "a": "A fixed APR is meant to stay the same over the life of the loan, making your costs predictable. A variable APR can move up or down because it is tied to a broader benchmark rate, so it usually rises when that index rises. Always check which type you are getting and read the fine print on how and when a variable rate can change."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-language answers on APR, credit cards, and loan terms."
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Official guidance and tools for comparing borrowing costs."
+      }
+    ]
+  },
+  {
+    "slug": "the-50-30-20-budget",
+    "takeaways": [
+      "The 50/30/20 rule splits your take-home pay into needs, wants, and savings plus extra debt payoff.",
+      "Apply the percentages to after-tax pay, since budgeting around gross salary plans for money you never receive.",
+      "Sort gray-zone costs honestly, splitting items like phone plans into part need and part want.",
+      "The rule strains in high-rent cities, on low incomes, or when attacking high-interest debt fast.",
+      "Treat the ratios as a flexible guide: track one honest month, then adjust and protect savings."
+    ],
+    "faq": [
+      {
+        "q": "Should I base the 50/30/20 split on my salary or my take-home pay?",
+        "a": "Use your take-home pay, the money that lands in your account after taxes and payroll deductions. Budgeting around your gross salary plans for money you never actually receive. This keeps your three buckets grounded in what you can really spend."
+      },
+      {
+        "q": "What counts as a need versus a want in this budget?",
+        "a": "Needs are costs you cannot easily skip, like housing, utilities, basic groceries, transportation, insurance, and minimum debt payments. Wants are optional extras such as dining out, streaming, hobbies, and travel. When an expense splits, like a phone plan, count part as a need and part as a want."
+      },
+      {
+        "q": "What if my needs cost more than 50 percent of my pay?",
+        "a": "That is common, especially in high-rent areas. You can trim your wants bucket to make room, or accept a higher needs share and keep protecting the savings portion. Many people guard the savings number first and let needs and wants compete for what is left."
+      },
+      {
+        "q": "Can I start a 50/30/20 budget without using an app?",
+        "a": "Yes. Pick one recent month, then sort every transaction from your checking account and card statements into needs, wants, or savings using a notebook or simple spreadsheet. Comparing your real numbers to the targets shows where to adjust next month. If you later want paid tools, check the official source first since terms change."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://consumer.gov/",
+        "label": "Consumer.gov",
+        "note": "Plain-language basics on managing your money and budgeting"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Official tools and guides for budgeting, saving, and debt"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-the-fafsa",
+    "takeaways": [
+      "The FAFSA is a free federal application, not a loan or bill, that unlocks most college financial aid.",
+      "It opens the door to grants, work-study, federal loans, plus state and school-based aid.",
+      "Filing always costs nothing, so never pay a third party to submit the form for you.",
+      "You file a new FAFSA every school year, and filing early protects limited first-come aid.",
+      "Do not assume your income is too high; many families still qualify, and loans need the form."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to fill out the FAFSA again every year?",
+        "a": "Yes, you submit a new FAFSA for each school year you plan to attend, not just once. The form opens for a new cycle ahead of the academic year. Your financial information can change from year to year, so a single bad year does not permanently disqualify you."
+      },
+      {
+        "q": "Is it really free to submit the FAFSA?",
+        "a": "Yes, the official application never costs money to complete or submit, which is why the F in FAFSA stands for Free. You file it at studentaid.gov, the government's official site. If a website or service asks for a fee to file, treat that as a red flag."
+      },
+      {
+        "q": "Should I still apply if my family earns a high income?",
+        "a": "Usually yes. Not all aid is based on income, and many families are surprised by what they qualify for once they apply. Even if income rules out need-based grants, the FAFSA is still typically required to access federal student loans, so skipping it can close a door you may want open later."
+      },
+      {
+        "q": "What information do I need to complete the FAFSA?",
+        "a": "You will generally need Social Security numbers, tax and income information, and records of any assets. Parents may need to provide information for students considered dependents. The form can pull some tax information directly with your permission, which reduces manual entry and errors."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid — FAFSA application",
+        "note": "Start and submit the official FAFSA form for free"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Official hub for federal grants, work-study, and loans"
+      }
+    ]
+  },
+  {
+    "slug": "micro-credentials-explained",
+    "takeaways": [
+      "A micro-credential is a short, focused certification proving you can do one specific skill, sitting between a single class and a degree.",
+      "The label alone tells you little; what matters is who issued the credential and what you had to do to earn it.",
+      "Employers value recognized issuers and credentials that required demonstrating real skill rather than mere attendance.",
+      "Pairing a credential with a portfolio or finished project usually carries more weight than the badge alone.",
+      "Judge any micro-credential on issuer recognition, assessment rigor, recency, and what you can show afterward before paying."
+    ],
+    "faq": [
+      {
+        "q": "Are micro-credentials worth it for getting a job?",
+        "a": "They can help, but it depends heavily on which one you pick and what you can show afterward. A recognized credential backed by real work you can demonstrate genuinely helps you stand out, while a badge from an unknown source proves little. Most hiring managers hire someone who can do the job, so a credential works best paired with proof of work like a portfolio or project."
+      },
+      {
+        "q": "What is the difference between a micro-credential and a degree?",
+        "a": "A micro-credential is narrow on purpose, verifying one focused skill in far less time than a degree, often a few weeks or months and usually online. A degree signals broad knowledge across many subjects over years. Micro-credentials became popular because they are quicker and cheaper, and because skills can change faster than long programs keep up."
+      },
+      {
+        "q": "Can micro-credentials count toward a college degree?",
+        "a": "Sometimes. Some credentials are stackable, meaning a smaller one can count toward a larger credential or, in certain cases, apply toward college credit at participating schools. However, stacking is not automatic and depends on specific agreements between the issuer and the school. Treat any stacking or credit claim as something to verify with the institution that would grant the credit, not assume."
+      },
+      {
+        "q": "How do I avoid paying for a micro-credential that is not respected?",
+        "a": "Start with the issuer and check whether employers in your target field already know the name. Look at job postings for the role you want to see which credentials they actually mention. Then weigh how rigorously you are tested, how current the material is, and what you can show afterward beyond the badge."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Browse platform certificates and courses across many career-focused subjects."
+      },
+      {
+        "url": "https://www.edx.org/",
+        "label": "edX",
+        "note": "Explore university micro-programs and professional certificates from recognized institutions."
+      }
+    ]
+  },
+  {
+    "slug": "how-to-finish-an-online-course",
+    "takeaways": [
+      "Finishing a course is mostly a system problem, not a willpower problem, so design your week around steady progress.",
+      "Set your own finish date and divide the lessons across the weeks you have to make it manageable.",
+      "Schedule short, fixed study sessions anchored to an existing habit instead of waiting for motivation.",
+      "Learn actively by taking notes, attempting exercises first, and building a real project alongside the lessons.",
+      "After any gap, use the two-lesson restart rule, and quit only if the course is wrong for your goal."
+    ],
+    "faq": [
+      {
+        "q": "Why do so many people abandon self-paced online courses?",
+        "a": "Self-paced courses lack the outside deadlines, instructors, and peers that keep a college class moving, so they always lose to work and bills that do have deadlines. Many lessons are also consumed passively, which feels like learning but rarely sticks. A vague goal makes it hard to know whether any given session actually counted."
+      },
+      {
+        "q": "How long should each study session be?",
+        "a": "Short sessions of about thirty to forty-five minutes at the same time on the same days work better than occasional long binges. Short, regular sessions are easier to protect in your schedule and easier to repeat. Keeping them brief also makes starting feel easy rather than draining."
+      },
+      {
+        "q": "What should I do after I miss a week of studying?",
+        "a": "Avoid the shame spiral where one skipped week turns into quitting for good. Use a simple restart rule: after any gap, aim only to complete two lessons, not the entire backlog. Two lessons are small enough to face, and finishing them puts you back in motion so your normal schedule can take over."
+      },
+      {
+        "q": "Is it ever okay to quit a course before finishing?",
+        "a": "Yes, if the course is the wrong tool for what you actually need. Quitting because it does not teach the specific skill you came for can be a smart choice rather than a failure. But if you only feel behind or the work got uncomfortable, that is a reason to use the restart rule and keep going."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.khanacademy.org/",
+        "label": "Khan Academy",
+        "note": "Free self-paced courses to practice the active-learning study system."
+      },
+      {
+        "url": "https://ocw.mit.edu/",
+        "label": "MIT OpenCourseWare",
+        "note": "Free university course materials for building a real project alongside lessons."
+      }
+    ]
+  },
+  {
+    "slug": "employer-tuition-assistance",
+    "takeaways": [
+      "Many US employers help cover education costs through reimbursement, upfront tuition, partner platforms, or yearly professional development budgets.",
+      "Read the policy for grade requirements, field-of-study limits, pre-approval, annual caps, and stay-or-repay clauses before enrolling.",
+      "Employer educational assistance can be tax-advantaged up to a federal limit; check current figures and rules at irs.gov.",
+      "A stay-or-repay clause may make you owe the money back if you leave soon after the company pays.",
+      "If no program exists, pitch a course as a solution to a real business need with a modest budget and timeline."
+    ],
+    "faq": [
+      {
+        "q": "What is the difference between tuition reimbursement and upfront tuition assistance?",
+        "a": "With reimbursement, you pay for an approved course yourself and the employer pays you back after you finish, often only if you earn a passing grade. Upfront assistance means the employer pays the school directly or advances the money before class starts, so you never float the cost. Upfront help is less common but easier on your cash flow."
+      },
+      {
+        "q": "Do I have to pay back tuition help if I leave my job?",
+        "a": "You might, if your employer's policy includes a stay-or-repay clause. These clauses typically require you to stay employed for a set window after the company pays, or you owe some or all of the money back. The repayment amount often shrinks the longer you stay, so factor this in if you may change jobs soon."
+      },
+      {
+        "q": "Is employer-paid education counted as taxable income?",
+        "a": "In the United States, employer-provided educational assistance can be tax-advantaged up to a limit set by federal law, so a certain amount each year may not count as taxable income. Money above that limit, or help that does not meet the rules, may be treated as taxable wages. Check current figures at irs.gov and ask your payroll or HR team how your company reports the benefit."
+      },
+      {
+        "q": "How do I ask my boss to pay for a course if there is no formal program?",
+        "a": "Frame the course as a solution to a business problem rather than a personal favor. Name a real gap or goal, connect a specific course to that need, and propose a modest budget and timeline. A focused short course is an easier yes than a multi-year degree, and reporting your results afterward makes future requests easier."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.irs.gov/",
+        "label": "IRS",
+        "note": "Check current limits and rules for tax-free employer educational assistance."
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Explore federal aid options for education your employer does not cover."
+      }
+    ]
+  },
+  {
+    "slug": "project-management-certifications",
+    "takeaways": [
+      "Project management certifications come in tiers, so match the credential to your actual experience rather than the most impressive name.",
+      "The flagship professional credential suits experienced practitioners and typically requires documented project leadership, formal education, and training hours.",
+      "Agile and scrum credentials are faster to earn and pair well with a broader project management certification rather than replacing it.",
+      "Beginner platform certificates teach the fundamentals and suit career changers, but employers view them as foundational rather than advanced.",
+      "Prepare affordably by starting with the free official exam outline and leaning on libraries, practice questions, and employer tuition help."
+    ],
+    "faq": [
+      {
+        "q": "Do I need years of experience to get a project management certification?",
+        "a": "Not for every credential. Entry-level professional certifications and beginner platform certificates cover core concepts without demanding documented leadership experience. The flagship credential, however, typically asks you to document a certain amount of real project leadership before you can sit for the exam. Match the credential to where you actually are in your career."
+      },
+      {
+        "q": "Are online platform certificates worth it for project management?",
+        "a": "They can be, depending on your goals. Beginner certificates from online learning platforms are a strong way to learn the basics, build vocabulary, and decide whether the field appeals to you. They are generally not equal in weight to the flagship professional credential, and employers tend to view them as foundational. For exploring the field or building a first resume, that can still be plenty."
+      },
+      {
+        "q": "How can I prepare for a certification exam without overspending?",
+        "a": "Start with the official exam content outline, which issuers usually publish for free, so you study with purpose. Then lean on lower-cost resources like library books, reputable practice questions, and study groups before buying premium prep. Ask your employer about tuition assistance, and check whether professional membership lowers exam fees enough to be worth joining first."
+      },
+      {
+        "q": "What is the difference between agile or scrum credentials and a general project management certification?",
+        "a": "Agile and scrum credentials center on specific frameworks and often focus on a particular role rather than general project management. They are usually faster to earn, sometimes after only a short course and an exam. They tend to pair well with a broader project management credential rather than replacing it, and employer recognition can vary between the different issuing bodies."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.pmi.org/",
+        "label": "Project Management Institute (PMI) — official certifications",
+        "note": "Official source for flagship and entry-level credential requirements and renewal"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Online platform offering beginner project management certificate programs"
+      }
+    ]
+  },
+  {
+    "slug": "how-student-loan-interest-works",
+    "takeaways": [
+      "Most student loans accrue interest daily on your current balance, so a larger balance piles up more interest.",
+      "Capitalization folds unpaid interest into your principal, after which you pay interest on a bigger balance.",
+      "Early payments mostly cover that month's interest, so attacking principal sooner has an outsized payoff effect.",
+      "Tell your servicer to apply extra payments directly to principal without advancing your due date.",
+      "Avalanche targets the highest-rate loan and snowball the smallest balance; pick the method you will stick with."
+    ],
+    "faq": [
+      {
+        "q": "Can I lower my total interest by paying off a loan early?",
+        "a": "Yes. Because interest accrues daily on your balance, reducing the principal sooner shrinks the interest that builds for the rest of the loan. Federal student loans generally do not penalize you for paying early or paying extra. Still, confirm there are no surprises with your servicer before building a plan around it."
+      },
+      {
+        "q": "How can I make sure extra payments actually reduce my balance?",
+        "a": "Tell your servicer to apply the extra amount directly to principal and ask them not to advance your due date. By default, some servicers treat extra money as paying ahead, which does not shrink your principal. After paying, check your statement to confirm the balance actually went down."
+      },
+      {
+        "q": "What is the difference between subsidized and unsubsidized student loans?",
+        "a": "With certain subsidized federal loans, the government covers the interest during specific periods, such as while you are in school at least half-time. Unsubsidized loans generally accrue interest the entire time, including while you are still in school. The rules have exceptions, so check with your servicer or studentaid.gov for your specific loans."
+      },
+      {
+        "q": "When can unpaid interest get added to my loan principal?",
+        "a": "Interest can capitalize at certain trigger points tied to your loan status, such as when a grace period, deferment, or forbearance ends, or when you consolidate certain loans. The exact rules vary by loan type and can change over time. Paying off accrued interest before a trigger point may help you avoid having it folded into principal."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/understand-aid/types/loans/interest-rates",
+        "label": "Federal Student Aid — Interest rates and fees",
+        "note": "Official details on how federal loan interest rates and fees work"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Check your specific loan terms, servicer, and repayment options"
+      }
+    ]
+  },
+  {
+    "slug": "student-loan-forgiveness-programs",
+    "takeaways": [
+      "Forgiveness cancels part or all of what you owe, but each path has its own detailed, frequently changing rules.",
+      "Most forgiveness applies only to federal loans; private loans from banks rarely qualify at all.",
+      "Public service work and income-driven plans both offer forgiveness, but only after years of qualifying payments.",
+      "Legitimate forgiveness never charges an upfront fee, so treat pay-for-help offers as a warning sign.",
+      "Confirm your loan type, plan, and current eligibility on studentaid.gov before counting on any program."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to pay a company to apply for student loan forgiveness?",
+        "a": "No. Applying for federal forgiveness, switching repayment plans, and consolidating loans all cost nothing through official channels. Real forgiveness programs never charge an upfront fee. If someone promises instant forgiveness for a fee or pressures you to act today, treat it as a scam warning sign."
+      },
+      {
+        "q": "Can my private student loans be forgiven?",
+        "a": "Usually not. Most forgiveness programs apply only to federal loans made or backed by the U.S. Department of Education. Private lenders set their own rules and rarely cancel balances except in narrow cases, such as the borrower's death."
+      },
+      {
+        "q": "Is forgiveness automatic once I qualify?",
+        "a": "Generally no. Most paths require an application and proof rather than happening automatically. Borrowers also need to keep up with steps like certifying employment for public service forgiveness or recertifying income each year for income-driven plans. Skipping these can knock you off track."
+      },
+      {
+        "q": "Will I owe taxes on a forgiven balance?",
+        "a": "Possibly. Forgiven debt can sometimes be treated as taxable income, and the rules have shifted depending on the year and the program. Before assuming a canceled balance is fully tax-free, check the current federal and state tax treatment so you are not surprised later."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/manage-loans/forgiveness-cancellation",
+        "label": "Federal Student Aid — Forgiveness and cancellation",
+        "note": "Official overview of forgiveness, cancellation, and discharge paths and rules"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Log in to check your loan types, plans, and eligibility"
+      }
+    ]
+  },
+  {
+    "slug": "scholarships-and-grants-guide",
+    "takeaways": [
+      "Scholarships and grants are gift aid you usually do not repay, making them the cheapest money for school.",
+      "Scholarships are typically merit or criteria-based, while grants are most often awarded for financial need.",
+      "Search in order: your own school first, then federal aid via FAFSA, then state, local, and employer sources.",
+      "Free tools like CareerOneStop can fill gaps; never pay a fee to search for or apply to a scholarship.",
+      "Apply broadly, chase less-competitive niche awards, reuse and tailor essays, and guard every deadline carefully."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to pay back scholarships and grants?",
+        "a": "In most cases, no. Scholarships and grants are gift aid, which generally does not need to be repaid, unlike loans. Work-study is different too, since it is money you earn through a part-time job rather than a gift. When reading an aid offer, check closely which dollars are gifts and which must be repaid or worked off."
+      },
+      {
+        "q": "Where should I start looking for free money for college?",
+        "a": "Begin with your own school, since colleges are often the single largest source of gift aid and their awards are frequently larger than private ones online. After the school, file the FAFSA to unlock federal and many state and college aid programs. Then explore state, local, and employer or union sources before turning to free search tools to fill the gaps."
+      },
+      {
+        "q": "How can I tell if a scholarship offer is a scam?",
+        "a": "The clearest warning sign is being asked to pay. Legitimate scholarships never charge an application fee, and no honest service guarantees you will win money. Be cautious of anything requesting a fee, a credit card to hold a prize, or sensitive financial details up front, because real gift aid does not work that way."
+      },
+      {
+        "q": "Does winning an outside scholarship reduce my other aid?",
+        "a": "It sometimes can, through a practice called scholarship displacement, where a school adjusts the aid it already offered. Often the school trims loans or work-study first, which can actually help you, though it may affect grants in some situations. Outside money almost always lowers what you borrow, so tell your financial aid office about any awards and ask how they will be applied."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid — FAFSA application",
+        "note": "File the free FAFSA to unlock federal grants and aid."
+      },
+      {
+        "url": "https://studentaid.gov/understand-aid/types/scholarships",
+        "label": "Federal Student Aid — Scholarships",
+        "note": "Official overview of how scholarships work and where to find them."
+      },
+      {
+        "url": "https://www.careeronestop.org/",
+        "label": "CareerOneStop (US DOL) — free scholarship search",
+        "note": "Free U.S. Department of Labor tool to search scholarships."
+      }
+    ]
+  },
+  {
+    "slug": "cosigning-a-student-loan",
+    "takeaways": [
+      "Cosigning makes you a co-borrower with full legal responsibility for the entire debt, not just a backup.",
+      "The loan appears on your credit report and counts in your debt-to-income ratio, affecting future borrowing.",
+      "A single missed payment can lower both credit scores, even if you never spent the money.",
+      "Cosigner release and refinancing are the main exits, but each carries conditions and is not guaranteed.",
+      "Before signing, read the full agreement, agree on a written payment plan, and set up account alerts."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to pay if the student stops making payments?",
+        "a": "Yes. As a cosigner you are a co-borrower with equal responsibility for the entire balance, not half. The lender does not have to exhaust collection efforts with the student first and may pursue whoever is easier to collect from, which could be you."
+      },
+      {
+        "q": "Can cosigning a student loan affect my ability to get a mortgage later?",
+        "a": "It can. Because the loan is your debt too, it counts in your debt-to-income ratio. When you apply for a mortgage, car loan, or refinance, lenders may treat the full student loan payment as yours, which can reduce how much you qualify to borrow or change your rate."
+      },
+      {
+        "q": "Can I be removed from a student loan after I cosign it?",
+        "a": "Not easily. Your name usually stays on the loan until it is paid off, refinanced into the borrower's name alone, or formally released by the lender. Many lenders offer a cosigner release program, but conditions vary, so confirm the specifics in writing before you sign."
+      },
+      {
+        "q": "Does federal student aid require a cosigner?",
+        "a": "Usually not. Most federal student loans for undergraduates do not require a cosigner or a credit check. Cosigners typically come into play with private loans from banks, credit unions, and online lenders, which look at credit and income. A student who has not used their full federal amount may not need a cosigner at all."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB - Ask CFPB",
+        "note": "Plain-language answers on cosigning, student loans, and credit"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau",
+        "note": "Federal guidance and tools for borrowers and cosigners"
+      }
+    ]
+  },
+  {
+    "slug": "codecademy-review",
+    "takeaways": [
+      "Codecademy teaches coding directly in your browser with no setup, so beginners can start typing within minutes.",
+      "Its read, write, and instant-check loop reinforces syntax faster than passively reading about programming rules.",
+      "The hand-holding and tidy sandbox can hide gaps, and completion certificates carry little weight with employers.",
+      "It suits absolute beginners testing their interest and people refreshing rusty syntax skills.",
+      "For a coding job, pair it with real projects, deeper fundamentals, and practice on your own machine."
+    ],
+    "faq": [
+      {
+        "q": "Is Codecademy good for someone who has never written code before?",
+        "a": "Yes, it is one of the gentlest places for complete beginners to start. Because everything runs in the browser with no installation, you can begin coding within minutes and find out within an afternoon whether you enjoy it. That low barrier makes it easy to test your interest before investing more time or money."
+      },
+      {
+        "q": "Can Codecademy alone get me a programming job?",
+        "a": "On its own, it is unlikely to be enough. Employers usually want to see real projects you built yourself and value computer science fundamentals that interactive lessons only touch lightly. Treat Codecademy as a starting point and add hands-on projects, deeper study, and practice outside the sandbox."
+      },
+      {
+        "q": "Do Codecademy certificates of completion matter to employers?",
+        "a": "Generally they carry little weight with hiring managers. They are not the same as an accredited degree or a recognized industry credential, so most employers will not treat them as proof you can do the job. Finishing a path can feel rewarding, but do not expect it to function as a job qualification."
+      },
+      {
+        "q": "What are the main downsides of learning through Codecademy?",
+        "a": "The hand-holding and tidy sandbox can hide gaps in your understanding, since real coding involves getting stuck and reading error messages on your own. Depth also tends to thin out on advanced topics, with lighter coverage of deeper theory. Eventually you will need to build projects on your own machine using real tools."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.codecademy.com/",
+        "label": "Codecademy",
+        "note": "Official site to confirm current plans, pricing, and certificate details."
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Alternative platform offering deeper courses and recognized credentials."
+      }
+    ]
+  },
+  {
+    "slug": "masterclass-review",
+    "takeaways": [
+      "MasterClass is a subscription giving library-wide access to polished video classes taught by famous experts in their fields.",
+      "Its real strength is motivation, perspective, and taste, not graded assignments, feedback, or step-by-step skill progression.",
+      "Watching is passive, so you can finish a class feeling inspired yet unable to do the craft better.",
+      "It is not a credential: you earn no degree, license, or certificate an employer would recognize.",
+      "Choose it for hobbyist inspiration; for job-ready skills, pair it with hands-on practice or pick a structured program."
+    ],
+    "faq": [
+      {
+        "q": "Is MasterClass good for learning a job-ready skill?",
+        "a": "It is better for inspiration and craft insight than for building measurable, job-ready skill on its own. There are no graded assignments, no feedback on your work, and little structured progression. If you need provable skills, pair it with hands-on practice or choose a program designed around doing and being corrected."
+      },
+      {
+        "q": "Do you get a certificate or qualification from MasterClass?",
+        "a": "No. MasterClass is not a credentialing program, so you do not earn a degree, license, or certificate an employer would recognize as proof of professional skill. It can teach you something genuinely useful, but that learning is separate from a qualification you can put on a resume. For a recognized outcome, you need a program built for that purpose."
+      },
+      {
+        "q": "How is MasterClass different from a traditional online course?",
+        "a": "Each class is a series of polished video lessons, often with a downloadable workbook, but there are no quizzes that matter and no instructor reviewing your work. You watch, take notes, and apply the ideas on your own time. It feels closer to a beautifully made documentary series than to a class with classmates, deadlines, and assessment."
+      },
+      {
+        "q": "Would MasterClass make a good gift?",
+        "a": "It can work well as a gift, since the polished presentation feels generous and the broad library lets the recipient find a topic they care about. It suits a curious person who enjoys inspiration over a strict syllabus. Because plans and pricing change over time, confirm the current offer on the official site before buying."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.masterclass.com/",
+        "label": "MasterClass official site",
+        "note": "Check current plans, pricing, class lineup, and what membership includes."
+      }
+    ]
+  },
+  {
+    "slug": "pluralsight-review",
+    "takeaways": [
+      "Pluralsight is a subscription library focused on technology, rewarding people who learn steadily over many months.",
+      "Learning paths, skill assessments, and hands-on labs help you target job roles and certification prep.",
+      "Watching videos alone does not build skill; you must practice, code along, and build your own projects.",
+      "A course completion certificate is not an industry certification, which requires passing a separate vendor exam.",
+      "It suits working developers, IT pros, and cert preppers, but absolute non-tech beginners may feel lost."
+    ],
+    "faq": [
+      {
+        "q": "Does Pluralsight work well for someone with no coding experience?",
+        "a": "It is a weaker fit for absolute non-tech beginners because it assumes some comfort with technical ideas and can move quickly. If you have never written code or worked with a server, a gentler beginner-focused resource may serve you better first. You can return to Pluralsight once the fundamentals feel familiar."
+      },
+      {
+        "q": "Will a Pluralsight course give me an industry certification?",
+        "a": "No. Finishing a course may earn a certificate of completion, which only shows you watched the material. A real industry certification requires passing a separate exam run by the vendor or certifying body. Pluralsight can help you prepare, but it does not issue those credentials itself."
+      },
+      {
+        "q": "Is a Pluralsight subscription worth the cost for casual learners?",
+        "a": "Because it is a subscription, value comes from steady, regular use rather than occasional logins. If you expect to sign in only once in a while, the cost may not pay off. In that case, a course you buy outright could suit you better."
+      },
+      {
+        "q": "How can I get the most value out of a Pluralsight subscription?",
+        "a": "Set a clear goal first, such as a role path or certification target, and take the relevant skill assessment to guide your start. Build practice into your routine by coding along, using any included labs, and creating small projects. A few focused hours each week beats long binge sessions you never apply."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.pluralsight.com/",
+        "label": "Pluralsight — official site",
+        "note": "Confirm current plans, features, trial terms, and pricing before subscribing"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Alternative platform with broader non-technology and beginner-friendly course options"
+      }
+    ]
+  }
+]

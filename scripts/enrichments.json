@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "what-is-a-payday-loan",
+    "takeaways": [
+      "A payday loan is a small, short-term loan repaid in full, plus a flat fee, by your next payday.",
+      "Because the fee covers only about two weeks, the cost translates into shocking triple-digit annualized rates.",
+      "Rollovers add new fees without reducing the principal, turning a two-week loan into months of mounting debt.",
+      "Lower-cost alternatives include credit union payday alternative loans, biller payment plans, employer advances, and local assistance programs.",
+      "Payday lending rules vary by state, so always confirm the lender is licensed and the loan is legal where you live."
+    ],
+    "faq": [
+      {
+        "q": "Do payday lenders check your credit before approving you?",
+        "a": "Many payday lenders do little or no credit checking, which is part of why these loans are so easy and fast to get. To qualify you typically just show proof of income, a bank account, and a form of ID. Easy approval is a major reason people in a tight spot turn to them."
+      },
+      {
+        "q": "How does a lender make sure they get repaid on the due date?",
+        "a": "You usually give the lender a post-dated check or permission to withdraw money directly from your bank account on the due date. When payday arrives, the lender collects the original amount plus the fee in one lump sum. Because it all comes due at once, repayment can leave you short again."
+      },
+      {
+        "q": "How can I tell if I'm sliding into a payday loan debt cycle?",
+        "a": "A clear warning sign is finding yourself borrowing again just to repay the last loan. Each new loan, called a rollover, adds another fee without reducing what you originally owed. If this is happening, stop and look at safer alternatives instead."
+      },
+      {
+        "q": "Is it ever reasonable to use a payday loan?",
+        "a": "Some people use one as a true last resort when they need cash immediately to avoid something worse, like a shut-off utility or bounced rent check. Even then it should be a one-time bridge you can clearly afford to repay on the due date. Confirm the total fee in dollars, check that the lender is licensed in your state, and be honest about whether your next paycheck can cover it."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-language answers on payday loans, fees, and repayment risks"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Guidance on avoiding costly borrowing and lender scams"
+      },
+      {
+        "url": "https://mycreditunion.gov/",
+        "label": "MyCreditUnion.gov (NCUA)",
+        "note": "Find credit union payday alternative loans and lower-cost options"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Official tools and protections for borrowers and loan products"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-credit-utilization",
+    "takeaways": [
+      "Credit utilization is the ratio of your revolving balances to your total available credit limits.",
+      "It ranks just behind payment history in importance, and you control it directly.",
+      "Keeping utilization under roughly 30 percent is a common guardrail, though lower is generally better.",
+      "Pay down balances before the statement closing date so a lower number gets reported to bureaus.",
+      "Utilization has no memory, so paying down a balance can improve your score quickly."
+    ],
+    "faq": [
+      {
+        "q": "Does carrying a balance on my credit card help build credit?",
+        "a": "No. Carrying a balance from month to month does not improve your score; it only means you pay interest on what you owe. You can use a card and pay it off in full each month and still build a strong credit history."
+      },
+      {
+        "q": "Will having a zero balance on all my cards hurt my score?",
+        "a": "No. A zero balance across all your cards is fine and will not hurt you. There is no penalty for using very little of your available credit, and the strongest scores often belong to people with very low utilization."
+      },
+      {
+        "q": "Why does one maxed-out card matter if my overall utilization is low?",
+        "a": "Scoring models look at both per-card and overall utilization. A single high-balance card can drag your score down even when your combined picture across all cards looks healthy, so spreading spending across cards can help."
+      },
+      {
+        "q": "Can lowering my utilization improve my score fast?",
+        "a": "It often can. Utilization has no memory, so models generally look at your reported balances right now rather than a past average. Once you pay a balance down and a lower number is reported, the older high figure stops weighing on your score."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/",
+        "label": "CFPB — Credit reports and scores",
+        "note": "Official guidance on how credit reports and scores work"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-language answers to common credit and debt questions"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Trusted consumer guidance on credit, debt, and money"
+      }
+    ]
+  },
+  {
+    "slug": "government-benefits-guide",
+    "takeaways": [
+      "Far more people qualify for benefits than apply, so it is worth checking even if you assume you earn too much.",
+      "Most need-based programs weigh household income and size, but states set many limits, so eligibility varies by location.",
+      "Major categories include food (SNAP, WIC), health (Medicaid, CHIP), housing, unemployment, disability (SSDI, SSI), and education aid.",
+      "Filing the FAFSA unlocks grants, work-study, and federal loans, and submitting it is always free.",
+      "Always confirm current rules and amounts on the official program or your state's portal before deciding."
+    ],
+    "faq": [
+      {
+        "q": "I think I earn too much to qualify for any benefits. Should I bother applying?",
+        "a": "Yes, it is often worth checking, because many people who assume they earn too much actually qualify. Eligibility depends on both your income and your household size, and a larger household can usually earn more and still qualify. State limits also vary, so the same income might qualify in one state but not another. Use an official screening tool to see what fits your situation."
+      },
+      {
+        "q": "Do I have to pay anyone to help me apply for student aid?",
+        "a": "No. The FAFSA is the Free Application for Federal Student Aid, and submitting it should never cost you anything. Some third parties charge for help with forms you can file yourself for free. If you want guidance, your school's financial aid office can explain your options at no charge."
+      },
+      {
+        "q": "What is the difference between SSDI and SSI?",
+        "a": "Both are Social Security disability programs, but they work differently. SSDI is tied to your past work and the taxes you paid, while SSI is based on financial need for people who are aged, blind, or disabled. Because the rules differ, it helps to read how each one works before applying."
+      },
+      {
+        "q": "Where should I start if I am not sure which benefits fit my situation?",
+        "a": "A few official starting points make the search easier. A federal screening site can check you against many programs at once, and your state's benefits or human services portal handles food, health, and cash aid. For housing, contact your local housing authority, and for disability questions use the official Social Security site."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.usa.gov/benefit-finder",
+        "label": "USA.gov Benefit Finder",
+        "note": "Screens you against many federal benefit programs at once"
+      },
+      {
+        "url": "https://www.usa.gov/benefits",
+        "label": "USA.gov — Government benefits overview",
+        "note": "Overview of major benefit categories and how to apply"
+      },
+      {
+        "url": "https://www.medicaid.gov/",
+        "label": "Medicaid.gov",
+        "note": "Official source on Medicaid and CHIP health coverage rules"
+      },
+      {
+        "url": "https://www.ssa.gov/benefits",
+        "label": "Social Security Administration — Benefits",
+        "note": "Details on SSDI and SSI disability benefit programs"
+      },
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid — FAFSA application",
+        "note": "File the FAFSA free to unlock grants and loans"
+      }
+    ]
+  },
+  {
+    "slug": "university-of-washington-digital-marketing-certificate",
+    "takeaways": [
+      "The UW digital marketing certificate is an instructor-led, part-time, online-friendly continuing-education program built around real portfolio projects.",
+      "Courses run on a cohort calendar, giving learners live teaching, deadlines, peer feedback, and networking that solo courses rarely offer.",
+      "The curriculum tours main channels: strategy, SEO, paid ads, social media, analytics, and content and email marketing.",
+      "These programs best suit career changers seeking structure and working marketers wanting to formalize skills with a recognized credential.",
+      "Self-paced online courses cost far less but trade away structure, accountability, live instruction, and the strength of a university name."
+    ],
+    "faq": [
+      {
+        "q": "Is a university digital marketing certificate the same as a degree?",
+        "a": "No. These certificates are shorter, focused programs rather than full degrees. They are designed for working adults who want to learn or formalize a specific set of skills. The UW version follows a pattern common at many large universities."
+      },
+      {
+        "q": "Will my employer help pay for a program like this?",
+        "a": "It can help if your employer offers tuition support, since formal university programs are usually easier to get reimbursed than informal courses. This is one reason working marketers sometimes choose the university route. Confirm current tuition and terms with the provider before enrolling."
+      },
+      {
+        "q": "Should I pick a university certificate or a cheaper self-paced course?",
+        "a": "Neither path is automatically better, so be honest about how you learn. If you finish things on your own and mainly want knowledge, a low-cost self-paced course may serve you well. If you want structure, deadlines, live feedback, and a recognized credential, the university route may be worth the higher price."
+      },
+      {
+        "q": "Do I need a marketing background to enroll?",
+        "a": "Not necessarily. A program like this tends to fit career changers from unrelated fields who want a structured, credible path into marketing. It also suits working marketers who want to fill gaps and formalize skills they picked up on the job."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.pce.uw.edu/",
+        "label": "University of Washington Professional & Continuing Education",
+        "note": "Official site for current UW courses, schedule, and tuition"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Self-paced online marketing courses, many free to audit"
+      },
+      {
+        "url": "https://www.udemy.com/",
+        "label": "Udemy",
+        "note": "Low-cost self-paced courses covering digital marketing topics"
+      }
+    ]
+  },
+  {
+    "slug": "hbs-online-digital-marketing",
+    "takeaways": [
+      "HBS Online is Harvard Business School's online arm, offering short business courses that award a certificate of completion, not a degree.",
+      "Courses use a case-based, cohort-driven model with set start dates, weekly deadlines, and interactive peer participation.",
+      "Marketing courses like Digital Marketing Strategy emphasize strategic frameworks and decision-making over hands-on software tool tutorials.",
+      "It best suits managers, founders, and professionals wanting strategic grounding plus a recognized, brand-name credential.",
+      "Always confirm current course details, schedule, admission steps, and pricing on the official HBS Online site before enrolling."
+    ],
+    "faq": [
+      {
+        "q": "Does finishing an HBS Online course make me a Harvard graduate or alumnus?",
+        "a": "No. Completing an HBS Online course earns you a certificate of completion, which is not a degree and does not grant Harvard alumni status. It simply shows you finished a structured business course from a respected institution. The brand recognition is part of the appeal for many professionals, but it differs from the MBA program."
+      },
+      {
+        "q": "Can I work through an HBS Online course at my own pace whenever I want?",
+        "a": "Not really. The courses are cohort-driven, meaning you move through alongside a group that started at the same time, with deadlines for each module. You are expected to keep pace and participate with peers. If you prefer fully self-paced study, a MOOC platform may fit you better."
+      },
+      {
+        "q": "How much time should I expect to spend each week?",
+        "a": "Plan for a real, ongoing commitment of several hours each week spread across a number of weeks. The exact hours and course length vary, so check the listed expectations on the official page. Because deadlines pace the work, you cannot easily cram everything into one weekend at the end."
+      },
+      {
+        "q": "Will an HBS Online marketing course teach me to run ad campaigns or use specific tools?",
+        "a": "Probably not in a step-by-step way. Marketing courses focus on strategic thinking, customer understanding, positioning, and how digital channels fit a broader plan. If you mainly want tactical skills like setting up ads, building email sequences, or using a particular dashboard, a tool-focused course or vendor certification may serve you better."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://online.hbs.edu/",
+        "label": "Harvard Business School Online",
+        "note": "Official catalog with current course details, schedule, and pricing"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "MOOC platform offering self-paced, lower-cost alternative course options"
+      }
+    ]
+  },
+  {
+    "slug": "best-finance-courses-udemy-coursera",
+    "takeaways": [
+      "Udemy is flexible and instructor-driven with one-time pay, while Coursera is structured, academic, and certificate-focused.",
+      "Choose a platform by matching its format to your goal, since neither is automatically better than the other.",
+      "Judge a course by instructor credibility, a deep updated syllabus, and real practice work, not star counts.",
+      "Avoid courses promising easy money, guaranteed returns, secret systems, outdated content, or no hands-on exercises.",
+      "Set a small regular schedule and do the exercises actively, since finishing a course is the hardest part."
+    ],
+    "faq": [
+      {
+        "q": "Should a complete beginner start with Udemy or Coursera for finance?",
+        "a": "It depends on how you like to study rather than one platform always being better. Udemy suits flexible, self-paced skill courses you pay for once and keep, while Coursera offers structured, university-backed paths with graded work and certificates. Pick the format that matches your goal, whether managing your own money or building a job skill."
+      },
+      {
+        "q": "How can I tell if a finance instructor is actually qualified?",
+        "a": "Look for someone with genuine experience in the topic, such as accounting, banking, or teaching the subject at a school. A clear, honest bio matters more than flashy claims or marketing. On Coursera the university or company partner is a useful signal, but still check who teaches the actual lessons."
+      },
+      {
+        "q": "Why do prices on these platforms seem to change so much?",
+        "a": "Catalogs, content, and terms shift over time, and Udemy in particular runs frequent sales that make listed prices swing a lot. Coursera commonly uses a subscription or per-program model and sometimes offers free auditing without a certificate. Always confirm the current price and terms on the official platform before you enroll."
+      },
+      {
+        "q": "What is the best way to make sure I actually finish an online finance course?",
+        "a": "Treat study like an appointment by setting a small, regular schedule a few days each week instead of waiting for a free weekend. Do the exercises actively rather than only watching, redoing examples and trying problems before checking answers. If the course offers a certificate, use it as a deadline to aim for."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.udemy.com/",
+        "label": "Udemy",
+        "note": "Browse individual finance courses with lifetime access after one purchase."
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Explore university-backed finance Specializations and Professional Certificates with graded work."
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Find trustworthy personal finance guidance on budgeting, saving, debt, and credit."
+      }
+    ]
+  },
+  {
+    "slug": "student-loan-grace-periods",
+    "takeaways": [
+      "A grace period delays your first loan payment but never cancels the debt you still owe.",
+      "Federal Direct loans generally allow six months, while Parent PLUS and private loans follow different terms.",
+      "Interest keeps building on unsubsidized loans, and unpaid interest can capitalize onto your principal balance.",
+      "Consolidating during the grace period can end it early and start repayment sooner than planned.",
+      "Use the window to inventory loans, compare repayment plans, set up autopay, and build a budget."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to pay anything during my student loan grace period?",
+        "a": "No payment is required during the grace period, but interest may still be building depending on your loan type. On unsubsidized federal loans, interest keeps accruing the whole time. Making small interest-only payments can prevent that interest from being added to your principal later."
+      },
+      {
+        "q": "Can my grace period start before I actually graduate?",
+        "a": "Yes. A grace period can begin when you withdraw or drop below half-time enrollment, not just when you graduate. So switching to a lighter course load may quietly start your clock. It helps to know exactly which event triggers yours."
+      },
+      {
+        "q": "What happens if I go back to school during my grace period?",
+        "a": "Returning to school at least half-time before your grace period ends usually pauses the clock again. However, each federal loan generally gives you only one grace period. Using it up early is worth thinking about before you make that move."
+      },
+      {
+        "q": "How can I find out my loan's exact grace period terms?",
+        "a": "For federal loans, check your student aid dashboard or studentaid.gov, or contact your loan servicer. For private loans, read the promissory note you signed, which states the grace period length and when payments begin. Your lender can provide a copy if you cannot find it."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Official source to verify your loans, servicers, and grace period details"
+      },
+      {
+        "url": "https://studentaid.gov/manage-loans/repayment/plans",
+        "label": "Federal Student Aid — Repayment plans",
+        "note": "Compare federal repayment plan options before your first payment starts"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB consumer answers",
+        "note": "Plain-English answers on loans, interest, capitalization, and servicer questions"
+      }
+    ]
+  },
+  {
+    "slug": "federal-student-loan-limits",
+    "takeaways": [
+      "Federal student loans have both annual caps and a lifetime aggregate cap, and you can reach either one.",
+      "Independent undergraduates can borrow more than dependent ones, and your status is determined by the FAFSA.",
+      "Subsidized loans cost less because the government covers interest in school, but they are undergraduate-only and need-based.",
+      "PLUS loans can cover up to cost of attendance minus other aid, but carry higher rates and fees.",
+      "If you hit the cap, try payment plans, scholarships, employer help, or private loans as a last resort."
+    ],
+    "faq": [
+      {
+        "q": "Does my year in school change how much I can borrow?",
+        "a": "Yes. Annual limits usually rise as you move up in school, so a first-year student can typically borrow less than a senior. This reflects that later years often cost more and that students closer to graduating are seen as closer to earning income. Your lifetime aggregate cap still sits on top of these yearly amounts."
+      },
+      {
+        "q": "Can I borrow more if my parent is denied a Parent PLUS loan?",
+        "a": "Possibly. If you are a dependent student but your parent is turned down for a Parent PLUS loan, you may be allowed to borrow at the higher independent limits. Your school's financial aid office can confirm whether this applies to your situation."
+      },
+      {
+        "q": "Should I take subsidized or unsubsidized loans first?",
+        "a": "When possible, lean on subsidized loans first because they cost less over time. The government covers the interest on subsidized loans while you are in school at least half time, during the grace period, and during certain deferments. Unsubsidized loan interest builds the whole time, including while you study."
+      },
+      {
+        "q": "What can I do if a federal loan does not cover all my costs?",
+        "a": "Start with your school's financial aid office, which may offer payment plans or point you to grants you missed. Chase scholarships every year and ask whether your employer offers tuition help. Private loans from banks are a last resort because they lack federal protections like income-driven repayment."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized",
+        "label": "Federal Student Aid — Subsidized and unsubsidized loans",
+        "note": "Explains how subsidized and unsubsidized federal loans differ and qualify"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Official site to confirm current loan limits and terms"
+      },
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid — FAFSA application",
+        "note": "Apply for aid and determine your dependency status"
+      }
+    ]
+  },
+  {
+    "slug": "student-loan-consolidation-guide",
+    "takeaways": [
+      "Federal Direct Consolidation is free at studentaid.gov and keeps your federal protections while combining loans into one payment.",
+      "Consolidation does not lower your rate; it uses the weighted average of your existing loans, rounded up slightly.",
+      "Private refinancing can lower your rate but permanently ends federal benefits like income-driven repayment and forgiveness.",
+      "Never pay a fee for federal consolidation or share your FSA ID password, and ignore deadline pressure tactics.",
+      "If you might need income-driven repayment or Public Service Loan Forgiveness, keeping federal loans federal is the safer choice."
+    ],
+    "faq": [
+      {
+        "q": "Will consolidating my federal student loans lower my interest rate?",
+        "a": "No. A federal Direct Consolidation Loan does not give you a fresh, lower rate. Your new rate is the weighted average of the loans you combine, rounded up slightly, so it usually does not save you money on interest. Its main benefit is simplifying your loans into one payment with one servicer."
+      },
+      {
+        "q": "Can I undo a refinance and get my federal protections back?",
+        "a": "No. Once you refinance a federal loan into a private one, the federal protections are gone for good and there is no way to convert it back. You permanently give up income-driven repayment, federal forgiveness options, and the federal pause and deferment rules. Be sure you understand exactly what you are trading away before you sign."
+      },
+      {
+        "q": "How can I tell if a student loan consolidation offer is a scam?",
+        "a": "Be cautious of anyone charging a fee to process federal consolidation, since it is always free at studentaid.gov. Other red flags include pressure around fake forgiveness deadlines, requests for your FSA ID password, and demands to sign a power of attorney. If something feels off, stop and go directly to studentaid.gov or your official loan servicer."
+      },
+      {
+        "q": "Should I refinance if I work in public service or have unstable income?",
+        "a": "Usually no. If you rely on or might need income-driven repayment or a program like Public Service Loan Forgiveness, refinancing federal loans is generally a mistake. The same is true if your income is unpredictable. For those borrowers, keeping federal loans federal is almost always the safer choice."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/manage-loans/consolidation",
+        "label": "Federal Student Aid — Loan consolidation",
+        "note": "Apply free for a federal Direct Consolidation Loan and check eligibility"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Spot and report student loan and debt relief scams"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau (CFPB)",
+        "note": "Understand borrower rights and compare loan options safely"
+      }
+    ]
+  },
+  {
+    "slug": "coursera-plus-review",
+    "takeaways": [
+      "Coursera Plus charges one recurring fee for broad catalog access instead of buying each course separately.",
+      "It generally covers most courses, many Specializations, and Professional Certificates, but excludes full degree programs.",
+      "The subscription pays off for fast, high-volume learners who finish several courses within a billing period.",
+      "Single-course learners and slow-paced studiers usually save more with a one-time purchase or free auditing.",
+      "Plans auto-renew monthly or annually, so confirm pricing, trial terms, and course inclusion before subscribing."
+    ],
+    "faq": [
+      {
+        "q": "Do I keep my Coursera Plus certificates after I cancel?",
+        "a": "Yes. Any course or certificate you complete and earn while your subscription is active stays with you permanently. However, your access to the broader catalog ends once the subscription lapses, so finish what you start before canceling."
+      },
+      {
+        "q": "Can I learn on Coursera without paying for the subscription?",
+        "a": "Often yes. Coursera lets you audit many courses for free, which typically unlocks the lecture videos and readings. Auditing usually leaves out graded assignments and certificates, so it suits learners who want the knowledge rather than the credential."
+      },
+      {
+        "q": "Is Coursera Plus worth it for just one course?",
+        "a": "Usually not. If you only want a single course or certificate, a one-time purchase tends to cost less than the subscription. Buying per course also removes the pressure to extract value before billing renews."
+      },
+      {
+        "q": "What happens if I stop studying for a while?",
+        "a": "The subscription keeps billing whether you study or not, so long pauses quietly erode its value. If life regularly interrupts your study time, the recurring fee can add up while your progress stalls, making per-course buying the safer choice."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.coursera.org/courseraplus",
+        "label": "Coursera Plus — official page",
+        "note": "Confirm current pricing, plans, trial terms, and included content"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "Browse courses and check whether a specific one is included"
+      }
+    ]
+  }
+]

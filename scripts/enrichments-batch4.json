@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "what-is-a-roth-ira",
+    "takeaways": [
+      "A Roth IRA is funded with after-tax money, so qualified withdrawals in retirement, including the earnings, come out tax-free.",
+      "You can withdraw the contributions you put in at any time without taxes or penalties; earnings generally require being 59 and a half with a five-year-old account.",
+      "Annual contributions are capped and shared across all your IRAs, with an extra catch-up amount allowed at age 50 and older.",
+      "Roth IRAs have income limits that can reduce or block direct contributions for higher earners.",
+      "Unlike traditional IRAs and 401(k)s, a Roth IRA has no required minimum distributions for the original owner."
+    ],
+    "faq": [
+      {
+        "q": "What is the difference between a Roth IRA and a traditional IRA?",
+        "a": "The core difference is when you pay tax. A traditional IRA may give you a deduction now but taxes your withdrawals in retirement, while a Roth gives no deduction today and lets qualified withdrawals come out tax-free. A Roth also has no required minimum distributions for the owner, whereas a traditional IRA does."
+      },
+      {
+        "q": "Can I withdraw money from a Roth IRA before retirement?",
+        "a": "You can generally withdraw the contributions you put in at any time without taxes or penalties, because that money was already taxed. Earnings are different; taking them out before age 59 and a half and before the account has been open five years can trigger taxes and a penalty. Treat the account as long-term money."
+      },
+      {
+        "q": "How is a Roth IRA different from a 401(k)?",
+        "a": "A 401(k) is offered through your employer, funded from your paycheck, has a much higher contribution limit, and often includes an employer match. A Roth IRA is one you open yourself, with a lower limit but far more investment choices. Many people use both, contributing to a 401(k) up to the match and then funding a Roth IRA."
+      },
+      {
+        "q": "Can anyone contribute to a Roth IRA?",
+        "a": "Not directly. You need earned income, and you cannot contribute more than you earned for the year. Higher earners may find their allowed contribution reduced or eliminated by income limits, though some use a legal workaround often called a backdoor Roth. Confirm the current income thresholds on IRS.gov."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.irs.gov/retirement-plans/roth-iras",
+        "label": "IRS — Roth IRAs",
+        "note": "Official rules on contributions, income limits, and qualified withdrawals"
+      },
+      {
+        "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+        "label": "IRS — IRA Contribution Limits",
+        "note": "The current annual contribution and catch-up amounts"
+      },
+      {
+        "url": "https://www.investor.gov/",
+        "label": "Investor.gov (U.S. SEC)",
+        "note": "Plain-language basics on investing and retirement accounts"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/",
+        "label": "Consumer Financial Protection Bureau",
+        "note": "Consumer guidance on saving and long-term financial decisions"
+      }
+    ]
+  },
+  {
+    "slug": "ai-prompt-engineering-courses-worth-it",
+    "takeaways": [
+      "AI courses split into everyday-user skills, like prompting chat tools well, and deeper builder skills for working with AI through code.",
+      "Prompt engineering is a useful skill, but the standalone high-paying job has narrowed as models get better at understanding plain requests.",
+      "A large share of the best material is free and comes straight from the companies that build the tools and from major tech firms.",
+      "The most important quality signal is a recent update date, because the field changes month to month.",
+      "Avoid courses promising easy money, secret prompts, or guaranteed jobs; favor hands-on practice and lessons on judgment and limitations."
+    ],
+    "faq": [
+      {
+        "q": "Is prompt engineering still a good career in 2026?",
+        "a": "It is more accurate to see it as a valuable skill that strengthens your existing work than as a standalone, guaranteed high-paying job. As AI tools get better at understanding ordinary requests, memorizing clever phrases matters less, while knowing how to apply AI and judge its output matters more. Be skeptical of marketing that promises a six-figure prompt engineering salary."
+      },
+      {
+        "q": "Should I pay for an AI course or use free ones?",
+        "a": "Start with the free, first-party material from the companies that make the tools and from major tech firms, which often teaches the fundamentals well. Once you know the basics, pay only for a course that offers structure, real projects, or feedback you cannot get on your own. Going free first, then paid, saves money."
+      },
+      {
+        "q": "How can I tell if an AI course is up to date?",
+        "a": "Check the update date before anything else, since a course recorded a year or two ago may reference tools that have since changed. Favor content that teaches transferable thinking rather than a click-by-click tour of one app's current screen, and look for recent reviews that mention current material."
+      },
+      {
+        "q": "What are the warning signs of a low-quality AI course?",
+        "a": "Be wary of promises of easy money, secret prompts sold as treasure, guaranteed jobs, and fear-based urgency. Other red flags include outdated screenshots, a thin syllabus, no hands-on practice, and no discussion of limitations or responsible use. If the course is just a list of prompts you could find for free, skip it."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.deeplearning.ai/",
+        "label": "DeepLearning.AI",
+        "note": "Free and paid short courses on AI fundamentals and prompting"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/training/",
+        "label": "Microsoft Learn",
+        "note": "Free training paths on AI, Copilot, and machine learning"
+      },
+      {
+        "url": "https://grow.google/",
+        "label": "Grow with Google",
+        "note": "Google's AI Essentials and digital skills training"
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "label": "Coursera",
+        "note": "University and company AI courses, many free to audit"
+      }
+    ]
+  },
+  {
+    "slug": "what-is-a-credit-freeze",
+    "takeaways": [
+      "A credit freeze restricts access to your credit report, blocking lenders from approving new accounts in your name.",
+      "It is free to place, lift, and remove at all three nationwide credit bureaus under federal law.",
+      "A freeze does not lower your credit score and does not stop you from using your existing accounts.",
+      "You must freeze each bureau separately, since a freeze at one does not cover the others.",
+      "A freeze does not protect existing accounts or replace monitoring, and you must thaw it before applying for new credit."
+    ],
+    "faq": [
+      {
+        "q": "Does a credit freeze hurt my credit score?",
+        "a": "No. A freeze simply restricts who can access your credit report; it does not change the information in the report or lower your score. You can keep using your existing credit cards and loans normally while the freeze is in place."
+      },
+      {
+        "q": "Is it really free to freeze and unfreeze my credit?",
+        "a": "Yes. Under federal law, placing a freeze, temporarily lifting it, and removing it are all free at the three nationwide bureaus. If a service tries to charge you to freeze your credit, treat that as a warning sign and go directly to the bureaus."
+      },
+      {
+        "q": "Do I have to freeze my credit at all three bureaus?",
+        "a": "Yes, to be fully protected. There are three nationwide credit bureaus, lenders may check any of them, and a freeze at one does not carry over to the others. Place a separate freeze with Equifax, Experian, and TransUnion."
+      },
+      {
+        "q": "What is the difference between a credit freeze and a fraud alert?",
+        "a": "A freeze blocks access to your report outright, so new creditors cannot pull it. A fraud alert is a flag that asks lenders to take extra steps to verify your identity, which is easier to set up but weaker because it relies on lenders following through. A fraud alert placed at one bureau is shared with the others, while a freeze must be done at each."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "label": "CFPB — Ask CFPB",
+        "note": "Plain-language answers on credit freezes and fraud alerts"
+      },
+      {
+        "url": "https://www.identitytheft.gov/",
+        "label": "FTC — IdentityTheft.gov",
+        "note": "Report identity theft and get a step-by-step recovery plan"
+      },
+      {
+        "url": "https://consumer.ftc.gov/",
+        "label": "FTC Consumer Advice",
+        "note": "Guidance on credit freezes, fraud alerts, and scams"
+      },
+      {
+        "url": "https://www.annualcreditreport.com/",
+        "label": "AnnualCreditReport.com",
+        "note": "The federally authorized site for free copies of your credit reports"
+      }
+    ]
+  },
+  {
+    "slug": "deferment-vs-forbearance",
+    "takeaways": [
+      "Deferment and forbearance both temporarily pause federal student loan payments while keeping the loan in good standing.",
+      "During deferment, the government usually pays interest on subsidized loans, but interest still accrues on unsubsidized loans.",
+      "During forbearance, interest accrues on all loans, both subsidized and unsubsidized, making it the more expensive pause.",
+      "Unpaid interest can capitalize when a pause ends, getting added to your principal and raising your long-term cost.",
+      "An income-driven repayment plan is often a better option, since low payments still count toward forgiveness while most pauses do not."
+    ],
+    "faq": [
+      {
+        "q": "What is the main difference between deferment and forbearance?",
+        "a": "The main difference is how interest is handled. In deferment, the government generally pays interest on subsidized loans, while in forbearance interest accrues on all your loans. If you qualify for deferment and hold subsidized loans, it is usually the cheaper way to pause payments."
+      },
+      {
+        "q": "Will interest still build up if I pause my loans?",
+        "a": "It depends. On subsidized loans in deferment, the government typically covers the interest, so the balance does not grow. On unsubsidized loans in deferment, and on all loans in forbearance, interest keeps accruing. Paying at least the interest during the pause prevents it from capitalizing later."
+      },
+      {
+        "q": "Is forbearance bad for me?",
+        "a": "It is not inherently bad, but it is the more costly pause because interest always accrues, and that unpaid interest can be added to your principal when the forbearance ends. Use it as a short-term backstop when you do not qualify for a deferment or a lower repayment plan, and keep it as brief as you can."
+      },
+      {
+        "q": "Is there a better alternative to pausing my payments?",
+        "a": "Often, yes. Switching to an income-driven repayment plan can lower your monthly payment based on your income, sometimes to a small amount, while keeping you in active repayment that counts toward forgiveness. Most deferment and forbearance time does not count toward forgiveness, so ask your servicer to compare your options first."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief",
+        "label": "Federal Student Aid — Get Temporary Relief",
+        "note": "Official rules on deferment and forbearance"
+      },
+      {
+        "url": "https://studentaid.gov/manage-loans/repayment/plans",
+        "label": "Federal Student Aid — Repayment Plans",
+        "note": "Compare income-driven plans that may lower payments instead of pausing"
+      },
+      {
+        "url": "https://studentaid.gov/",
+        "label": "Federal Student Aid (studentaid.gov)",
+        "note": "Manage your federal loans, servicer, and repayment options"
+      },
+      {
+        "url": "https://www.consumerfinance.gov/consumer-tools/student-loans/",
+        "label": "CFPB — Student Loans",
+        "note": "Independent guidance on pausing payments and avoiding pitfalls"
+      }
+    ]
+  },
+  {
+    "slug": "brilliant-org-review",
+    "takeaways": [
+      "Brilliant teaches math, science, computer science, and data through short, interactive lessons rather than video lectures.",
+      "Its strength is active, hands-on learning with instant feedback, which builds intuition better than passive watching for many people.",
+      "It runs on an auto-renewing subscription, usually with limited free content and a trial; confirm the current price on the official site.",
+      "Brilliant is not accredited and does not grant degrees or job-ready certificates; you pay for the learning experience, not a credential.",
+      "It works best for consistent, curious learners; credential-seekers and sporadic users are better served elsewhere, including free options."
+    ],
+    "faq": [
+      {
+        "q": "Is Brilliant worth the subscription?",
+        "a": "It is worth it if you genuinely enjoy interactive problem-solving and will use it regularly, since its value depends entirely on consistent use. If you tend to subscribe and then drift away, the recurring fee will outpace your learning. Use the free content and trial first to see whether the style fits you."
+      },
+      {
+        "q": "Does Brilliant give you a certificate or degree?",
+        "a": "No. Brilliant is not an accredited institution, and it does not award degrees or the kind of certificate that carries weight with employers. You are paying for the learning experience and the intuition you build, not a formal credential to put on a resume."
+      },
+      {
+        "q": "Is Brilliant good for serious or in-depth study?",
+        "a": "It is excellent for building intuition and making concepts click, but it is a supplement rather than a replacement for rigorous coursework. It does not go as deep as a full university course or provide proof-heavy rigor, so people who need to master a field in depth will eventually outgrow it."
+      },
+      {
+        "q": "Are there free alternatives to Brilliant?",
+        "a": "Yes. Platforms like Khan Academy cover much of the same math and science ground at no cost, and free university material is available elsewhere too. If budget is a concern, it is worth trying the free routes before paying for a subscription to see whether you even need the paid experience."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://brilliant.org/",
+        "label": "Brilliant.org",
+        "note": "Official site, course catalog, and current pricing"
+      },
+      {
+        "url": "https://brilliant.org/courses/",
+        "label": "Brilliant — Courses",
+        "note": "The full list of interactive math, science, and CS courses"
+      },
+      {
+        "url": "https://www.khanacademy.org/",
+        "label": "Khan Academy",
+        "note": "A free alternative for math and science learning"
+      },
+      {
+        "url": "https://ocw.mit.edu/",
+        "label": "MIT OpenCourseWare",
+        "note": "Free university-level STEM material for deeper study"
+      }
+    ]
+  }
+]

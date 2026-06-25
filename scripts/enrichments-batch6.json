@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "what-is-federal-work-study",
+    "takeaways": [
+      "Federal Work-Study is a need-based federal program that funds part-time jobs for students; you earn the money as a paycheck and never repay it.",
+      "The FAFSA is the only way to be considered, and because funds are limited, filing early improves your odds of being awarded.",
+      "Your award is a cap on total earnings, not guaranteed hours or a salary; you are paid only for hours actually worked, at least the federal (or higher state/local) minimum wage.",
+      "Work-study earnings do not count against you when next year's financial aid eligibility is recalculated, unlike income from a typical outside job.",
+      "At most schools you must find and apply for the job yourself; positions can be on campus or off campus, including community service roles like tutoring."
+    ],
+    "faq": [
+      {
+        "q": "Do I have to pay back Federal Work-Study money?",
+        "a": "No. Work-study earnings are wages you receive for hours you actually work, so there is nothing to repay. This is a core difference from a student loan, which is borrowed money that must be repaid, usually with interest."
+      },
+      {
+        "q": "How do I apply for Federal Work-Study?",
+        "a": "There is no separate application. You apply by completing the FAFSA and indicating interest in work-study. Your school then decides whether to include it in your aid offer, and because funds are limited, submitting the FAFSA early helps. If you were not awarded it but want it, ask your financial aid office whether any funds remain."
+      },
+      {
+        "q": "How many hours can I work, and how much can I earn?",
+        "a": "Your school sets a work-study award that caps your total earnings for the period. The hours you can work are shaped by that cap and your financial need, and you generally cannot earn more than the awarded amount through work-study. To estimate the hours your award covers, divide it by your hourly wage and pace yourself across the term."
+      },
+      {
+        "q": "Will earning work-study money reduce my financial aid next year?",
+        "a": "Federal Student Aid indicates that work-study earnings are treated so they do not reduce your eligibility for need-based aid the following year, unlike income from a regular outside job. Keep in mind that wages are still income for tax purposes, so confirm your specific tax situation with the IRS or a qualified tax professional."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://studentaid.gov/understand-aid/types/work-study",
+        "label": "Federal Student Aid - Work-Study Jobs",
+        "note": "Official overview of what Federal Work-Study is, who is eligible, how funds are paid, and that on- and off-campus jobs exist."
+      },
+      {
+        "url": "https://studentaid.gov/articles/8-things-federal-work-study/",
+        "label": "Federal Student Aid - 8 Things You Should Know About Federal Work-Study",
+        "note": "Confirms the FAFSA is the only path, funds are limited, earnings do not reduce future aid, and pay/hours basics."
+      },
+      {
+        "url": "https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2025-2026/vol6/ch2-federal-work-study-program",
+        "label": "2025-2026 Federal Student Aid Handbook - The Federal Work-Study Program",
+        "note": "Authoritative program rules: minimum wage requirement, hourly vs salary pay, payment for hours worked, and the community service allocation."
+      },
+      {
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+        "label": "Federal Student Aid - Apply for Aid Using the FAFSA Form",
+        "note": "Official starting point for the FAFSA, the application that determines work-study consideration and other federal aid."
+      }
+    ]
+  },
+  {
+    "slug": "datacamp-review",
+    "takeaways": [
+      "DataCamp teaches data skills (Python, R, SQL, analysis, ML) through short videos plus coding exercises that run entirely in your browser with instant feedback.",
+      "Its biggest strengths are a frictionless start, structured skill and career tracks, and broad coverage of the data toolkit in one place.",
+      "Its main limitations are shallow, fill-in-the-blank exercises and no full real-world coding environment, so it works best as a foundation, not a finish line.",
+      "Pricing is a recurring subscription (free Basic, paid Premium, and Teams plans), so the true cost depends on how long you stay subscribed; confirm current prices on DataCamp's pricing page.",
+      "It fits beginners and career switchers who want guided structure, but serious or advanced learners should pair it with independent projects or pick a deeper alternative."
+    ],
+    "faq": [
+      {
+        "q": "Is DataCamp good for complete beginners?",
+        "a": "Yes. Its browser-based exercises mean you can write code within minutes without installing anything, and the instant feedback is encouraging for first-time learners. The main caveat is that beginners can finish chapters without building anything from scratch, so plan to practice in your own environment as you advance."
+      },
+      {
+        "q": "Will a DataCamp certificate get me a data job?",
+        "a": "A certificate or certification can signal effort and a baseline skill level, but it is not a guarantee of employment. Employers generally weigh demonstrated projects, interview problem-solving, and experience more heavily than any single platform credential, so pair DataCamp with a portfolio of real work."
+      },
+      {
+        "q": "How does DataCamp pricing work?",
+        "a": "DataCamp uses a subscription model with a limited free Basic tier, a paid Premium tier for individuals, and Teams or enterprise plans. Billing is monthly or annual, with annual usually cheaper per month. Because it is recurring, your real cost depends on how long you stay subscribed, so confirm current terms on the official pricing page."
+      },
+      {
+        "q": "What is the difference between a skill track and a career track?",
+        "a": "A skill track bundles a small group of related courses to build one capability quickly, while a career track chains many more courses together to prepare you for a full role such as data analyst or data scientist. Career tracks take considerably longer and are meant as comprehensive role preparation rather than a single topic."
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.datacamp.com/interactive-learning",
+        "label": "DataCamp - Interactive Learning",
+        "note": "Official description of how DataCamp's browser-based, exercise-first learning and real-time feedback work."
+      },
+      {
+        "url": "https://www.datacamp.com/pricing",
+        "label": "DataCamp - Plans and Pricing",
+        "note": "Official source for current subscription tiers, what each plan includes, and billing terms; verify prices here before buying."
+      },
+      {
+        "url": "https://www.datacamp.com/certification",
+        "label": "DataCamp - Certification",
+        "note": "Official details on DataCamp's certifications, the timed and practical exam structure, and inclusion with the premium plan."
+      },
+      {
+        "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+        "label": "U.S. Bureau of Labor Statistics - Data Scientists",
+        "note": "Neutral government authority on data science roles, typical education requirements, and job outlook."
+      }
+    ]
+  }
+]

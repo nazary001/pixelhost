@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#20203a"/>
+  <text x="32" y="40" font-family="Ubuntu, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">ML</text>
+  <rect x="14" y="46" width="36" height="5" rx="2.5" fill="#5d2fc9"/>
+</svg>

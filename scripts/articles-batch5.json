@@ -1,0 +1,225 @@
+[
+  {
+    "category": "what-is",
+    "imageQuery": "graduation",
+    "article": {
+      "title": "What Is a 529 Plan? How Tax-Advantaged College Savings Accounts Work",
+      "slug": "what-is-a-529-plan",
+      "description": "A plain-English guide to 529 plans: the two types, the tax breaks, financial-aid impact, contribution limits, and leftover money.",
+      "tags": [
+        "529 plan",
+        "college savings",
+        "education",
+        "investing"
+      ],
+      "sections": [
+        {
+          "type": "p",
+          "text": "A 529 plan is one of the main tools families use to save for education, and it exists for a simple reason: the federal government and individual states created accounts that give your money a tax advantage when you spend it on schooling. The name comes from Section 529 of the federal tax code. What trips people up is what these accounts are not. They do not lock you into one state, the child does not control the money, and you do not automatically lose everything if your kid wins a scholarship."
+        },
+        {
+          "type": "p",
+          "text": "This guide walks through what a 529 plan actually is, the two types it comes in, how the tax benefits work, what limits apply, what it does to financial aid, and what happens to money you do not end up spending on school. This is general educational information, not personalized financial or tax advice, and the specific dollar limits and percentages change often, so confirm current figures with the official sources noted at the end before you act."
+        },
+        {
+          "type": "h2",
+          "text": "What a 529 Plan Actually Is"
+        },
+        {
+          "type": "p",
+          "text": "A 529 plan is a tax-advantaged savings and investment account designed specifically for education costs. The plans are sponsored by states (and a handful of educational institutions), so you are technically choosing both a state's program and the investment options inside it. You do not have to live in a state to use most of its plans, which surprises a lot of first-time savers."
+        },
+        {
+          "type": "p",
+          "text": "The core idea is that you put after-tax money in, it grows over the years, and when you pull it out for qualified education expenses, you do not owe federal tax on the growth. Think of it as a retirement account, but pointed at tuition instead of your sixties. That single feature, tax-free growth used for school, is what makes a 529 worth understanding before you default to a regular brokerage or savings account."
+        },
+        {
+          "type": "h2",
+          "text": "The Two Types of 529 Plans"
+        },
+        {
+          "type": "p",
+          "text": "There are two very different products that both wear the 529 label, and confusing them is a common and costly mistake. The first and far more popular type is the education savings plan. This is an investment account: you choose from a menu of portfolios, your balance rises and falls with the market, and there is no guaranteed return. Money from a savings plan can be used at most accredited colleges and universities across the country, and it covers tuition, mandatory fees, room and board for students enrolled at least half-time, books, and required supplies. Within federal limits it can also go toward K-12 tuition, registered apprenticeship program costs, and even a capped amount of student-loan repayment."
+        },
+        {
+          "type": "p",
+          "text": "The second type is the prepaid tuition plan. Instead of investing, you are essentially buying tuition credits at today's prices to use later, which hedges against future tuition inflation. The trade-offs are significant: prepaid plans are usually limited to in-state public colleges, they often come with residency requirements, they tend to cover tuition and fees but not room and board, and many states have closed their programs to new buyers. They can be a strong fit for a family confident their child will attend an in-state public school, but they are far less flexible than savings plans."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Education savings plan: market-based investment account, usable at most accredited schools nationwide, covers a broad range of qualified expenses, no guaranteed return.",
+            "Prepaid tuition plan: locks in tuition at current prices, usually limited to in-state public schools, more restrictions, limited availability.",
+            "Both grow free of federal tax when used for qualified education expenses.",
+            "Most families opening a new account today are choosing an education savings plan."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "How the Tax Benefits and Limits Work"
+        },
+        {
+          "type": "p",
+          "text": "Your 529 contributions are not deductible on your federal tax return. You are funding the account with money you have already paid federal tax on. The federal benefit shows up later: the investments grow without being taxed each year, and when you withdraw for qualified education expenses, the earnings come out tax-free. Over a long savings horizon, skipping the annual tax drag on growth can make a meaningful difference compared with a taxable account."
+        },
+        {
+          "type": "p",
+          "text": "States layer their own incentives on top. Many states offer a state income-tax deduction or credit when you contribute to that state's plan, and a few are more generous than others. This is the main reason to look at your home-state plan first, even though you are free to invest elsewhere. The amount and rules vary widely from state to state, and some states offer no deduction at all."
+        },
+        {
+          "type": "p",
+          "text": "On limits, it helps to know that two different kinds exist. The first is tied to the annual federal gift-tax exclusion, which governs how much one person can contribute per year before the contribution counts against gift-tax reporting (the IRS also allows a special election to front-load several years of contributions at once). The second is a per-beneficiary aggregate cap that each state plan sets, which limits the total lifetime balance allowed for a single beneficiary. The article does not name dollar figures on purpose, because both change over time."
+        },
+        {
+          "type": "h2",
+          "text": "Flexibility, Financial Aid, and Leftover Money"
+        },
+        {
+          "type": "p",
+          "text": "529 plans are more flexible than their reputation suggests. Almost any adult can open one, including parents, grandparents, aunts, uncles, or even the future student. Crucially, the account owner keeps control of the money, not the beneficiary, so a child cannot cash out the account at eighteen and buy a car. You can usually change the beneficiary to another eligible family member, which means if one child does not need the funds, a sibling often can use them. And because you are generally not restricted to your own state, you can shop for low fees and good portfolios across the country."
+        },
+        {
+          "type": "p",
+          "text": "On financial aid, the news is mostly reassuring. As the CFPB and federal aid guidance explain, a 529 plan owned by a parent is generally treated as a parental asset on need-based aid calculations, and parental assets are assessed at a relatively gentle rate compared with assets held in the student's own name. That means a parent-owned 529 typically has a modest effect on the aid a student qualifies for. The treatment can differ for accounts owned by grandparents or others, so it is worth confirming how a specific account would be counted."
+        },
+        {
+          "type": "p",
+          "text": "What about money you never spend on school? If you take a non-qualified withdrawal, the earnings portion is subject to income tax plus an additional federal penalty, while your original contributions are not penalized because you already paid tax on them. There are notable exceptions. According to IRS guidance, if the beneficiary receives a scholarship, you can generally withdraw up to the scholarship amount without the penalty, though tax on earnings may still apply. The IRS also allows leftover 529 funds to be rolled into the beneficiary's Roth IRA under specific conditions and limits, giving long-unused balances a second life as retirement savings."
+        },
+        {
+          "type": "h2",
+          "text": "How to Get Started"
+        },
+        {
+          "type": "p",
+          "text": "A sensible first step is to weigh your home-state tax break against the cost and quality of out-of-state options. If your state offers a solid deduction and a low-fee plan, staying local is often the easiest win. If your state offers little or nothing, a well-known low-cost out-of-state plan may serve you better over time, since fees quietly eat into returns. Compare expense ratios, not just headline names."
+        },
+        {
+          "type": "p",
+          "text": "Once you pick a plan, most families choose an age-based or enrollment-year portfolio. These automatically shift from more aggressive holdings when the child is young toward more conservative holdings as college approaches, so you are not heavily exposed to a market drop the year tuition is due. From there, the most powerful move is boring: automate a monthly contribution, even a small one, and let time and tax-free compounding do the work."
+        },
+        {
+          "type": "h2",
+          "text": "The Bottom Line"
+        },
+        {
+          "type": "p",
+          "text": "A 529 plan is a focused tool: it trades some flexibility for tax-free growth on money used for education, and it gives the account owner real control over how and when the funds are used. For most families, the education savings plan, funded steadily into an age-based portfolio, is the straightforward choice, while prepaid tuition plans suit a narrower group committed to in-state public schools. The features that scare people off, lost money and aid penalties, are real but limited, and recent rules around scholarships and Roth rollovers have softened the worst-case outcomes."
+        },
+        {
+          "type": "p",
+          "text": "Before you open or fund an account, confirm the current contribution limits, penalty rules, state tax treatment, and aid-assessment details directly with the official sources listed below, since these numbers change from year to year. Treat this article as a map of how 529 plans work, not as a substitute for guidance tailored to your own finances, tax situation, and goals."
+        }
+      ]
+    },
+    "hadIssues": []
+  },
+  {
+    "category": "online-courses",
+    "imageQuery": "diploma",
+    "article": {
+      "title": "Are Online Degrees Respected by Employers? What Actually Decides It",
+      "slug": "are-online-degrees-respected-by-employers",
+      "description": "Online degrees mostly get respected. What really moves a hiring manager is accreditation, the school's name, and proof you can do the work.",
+      "tags": [
+        "online degrees",
+        "accreditation",
+        "careers",
+        "higher education"
+      ],
+      "sections": [
+        {
+          "type": "p",
+          "text": "If you are weighing an online degree, you are probably wondering whether a hiring manager will take it seriously or quietly hold it against you. It is a fair worry, and the honest answer is more reassuring than most people expect. For the vast majority of programs, respect does not hinge on whether you sat in a lecture hall or logged in from your kitchen table. It hinges on whether the school is properly accredited, whether the institution is recognized and reputable, and whether you can show real skill when it counts."
+        },
+        {
+          "type": "p",
+          "text": "Here is the detail that surprises a lot of applicants. A properly accredited online degree from a legitimate, recognized university generally carries the same academic weight as its on-campus version. The curriculum is often identical, taught by the same faculty. At many schools, the diploma and the official transcript do not even mention the word 'online' at all, so a degree from a well-known state university simply reads as a degree from that university. That changes how you should think about the whole decision: the format is rarely the thing employers judge."
+        },
+        {
+          "type": "h2",
+          "text": "What Employers Actually Care About"
+        },
+        {
+          "type": "p",
+          "text": "When a recruiter glances at your education line, they are not running a stopwatch on your seat time. They are making a few quick judgments. First, accreditation: is this a real degree from a school backed by a recognized accreditor, or a piece of paper from somewhere nobody can vouch for? Second, the institution itself: a recognizable, respected name carries trust on its own, and that trust transfers to its online programs. Third, and increasingly, what you can actually do: a portfolio, a track record, an internship, a reference who will pick up the phone. The format of your classes ranks well below all three."
+        },
+        {
+          "type": "p",
+          "text": "Accreditation is the part worth understanding before you enroll, because it is also the easiest to verify yourself, and the system is less mysterious than it sounds. The U.S. Department of Education does not accredit schools directly. Instead, it recognizes the accrediting agencies, and those agencies accredit the institutions. To confirm a school's status, you look it up in the Department's searchable Database of Accredited Postsecondary Institutions and Programs, known as DAPIP. A legitimate school will appear there and will name a recognized accreditor. If you cannot find it, treat that as a serious warning sign and verify directly with the accreditor before going further, since listings can occasionally lag or be incomplete."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Look the school up in DAPIP and confirm it lists a recognized accreditor, not one you have never heard of.",
+            "If it is missing or unclear, contact the named accreditor directly and ask them to confirm the school is in good standing.",
+            "Pull the school's graduate outcome data on College Scorecard before you commit any money.",
+            "Ask whether the online and on-campus versions share the same accreditation, faculty, and transcript wording.",
+            "For any licensure-bound field, ask the relevant state board or employer in writing what they will accept."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "How Employer Attitudes Have Shifted"
+        },
+        {
+          "type": "p",
+          "text": "A decade or two ago, an online degree could raise an eyebrow. That has changed, and the change is not subtle. Remote work moved from the exception to a normal way large organizations operate, which made the idea of learning remotely feel ordinary rather than suspect. At the same time, many well-known traditional universities launched online programs that run the same curriculum, the same assessments, and often the same faculty as their on-campus tracks. When a respected university offers a degree both ways and treats them as equivalent, it becomes very hard for an employer to treat one as second-class."
+        },
+        {
+          "type": "p",
+          "text": "There is also a practical shift in who earns these degrees. Plenty of capable people choose online study because they are working full time, raising kids, serving in the military, or simply cannot relocate. Hiring managers know this. Finishing a rigorous degree while holding down a job can read as a point in your favor, because it signals discipline and time management. The stigma that lingers is mostly attached to specific bad actors, not to the format itself."
+        },
+        {
+          "type": "h2",
+          "text": "Where Skepticism Legitimately Remains"
+        },
+        {
+          "type": "p",
+          "text": "It would be dishonest to say online degrees are universally bulletproof. Two kinds of skepticism are reasonable, and you should plan around them. The first is reputational: purely online for-profit schools with weak name recognition and poor graduate outcomes can drag down a resume, regardless of delivery format. The problem there is not that the program is online. It is that the school is not well regarded and its graduates do not do well. Before enrolling anywhere, check outcome data such as the federal College Scorecard to see how a school's graduates actually fare in earnings and employment."
+        },
+        {
+          "type": "p",
+          "text": "The second is the nature of the work. Some fields are bound to hands-on training, supervised clinical hours, physical labs, or state licensure, and in those areas a fully online path may be incomplete or simply not accepted. Nursing, many lab sciences, and certain engineering and trade roles commonly require in-person components for good reason. You cannot draw blood, run a wet lab, or complete supervised clinical hours through a screen. Requirements like these are also set by state boards and accreditors and can change, so if your target field is licensure-tied, confirm in writing exactly what an employer or the relevant licensing board expects before you commit."
+        },
+        {
+          "type": "h2",
+          "text": "Diploma Mills: The Real Thing to Avoid"
+        },
+        {
+          "type": "p",
+          "text": "The genuine danger is not the online format. It is the diploma mill, an operation that sells credentials with little or no actual education behind them. A degree from one is worse than useless, because a savvy employer who recognizes the name may question your judgment for having bought it. Diploma mills tend to follow a recognizable pattern. They lean on phrases like 'a degree for your life experience,' charge a flat fee per degree rather than per course or credit, promise a diploma in days or weeks, and claim accreditation from an agency that turns out to be fake, unrecognized, or invented by the mill itself."
+        },
+        {
+          "type": "p",
+          "text": "Protect yourself with one habit: verify accreditation independently before you pay anyone. Do not trust a logo or a claim on the school's own website. Look the institution up in DAPIP, find its accreditor, and confirm that accreditor appears on the Department of Education's list of recognized agencies. If the 'accreditor' is not on that list, treat the school as a dead end."
+        },
+        {
+          "type": "h2",
+          "text": "How to Make Your Online Degree Respected"
+        },
+        {
+          "type": "p",
+          "text": "You have more control over this outcome than you might think, and most of it is decided before you enroll. Choose an accredited, recognized school whose graduates do well, and ideally one whose online and on-campus degrees are indistinguishable on the transcript. After that, the work is about proof. Build a portfolio of real projects you can show. Pursue internships, co-ops, or relevant work experience so that 'online student' is never the most interesting thing on your resume. Network deliberately, because referrals open doors that a credential alone cannot."
+        },
+        {
+          "type": "p",
+          "text": "Demonstrable skill increasingly sits alongside the credential rather than behind it, but the degree still matters. Education level tends to track with higher earnings and lower unemployment over a career, a pattern documented in the Bureau of Labor Statistics 'Education Pays' chart, where median weekly earnings rise and unemployment rates fall as educational attainment increases. Because the exact figures are updated regularly, confirm the current numbers at the source rather than trusting any from memory. The candidate who pairs a legitimate degree with a body of real work is in a strong position no matter where they studied. Lead with what you can do, and let the accredited degree back it up."
+        },
+        {
+          "type": "h2",
+          "text": "The Bottom Line"
+        },
+        {
+          "type": "p",
+          "text": "Most employers respect online degrees, because the thing they are really judging is accreditation, the reputation of the institution, and what you can demonstrably do. A properly accredited online degree from a recognized university generally stands shoulder to shoulder with its on-campus version, and often does not even announce itself as online. The risks worth taking seriously are diploma mills, weak for-profit schools with poor outcomes, and hands-on fields that require in-person training or licensure."
+        },
+        {
+          "type": "p",
+          "text": "So if you are considering one, do the homework first. Verify accreditation through DAPIP, check graduate outcomes, pick a respected school, and then spend your energy building real skills and experience. This article is general information, not personalized career advice, and accreditation status, recognized-accreditor lists, and state licensing requirements all change over time, so confirm the current details on the official sources before you enroll. Do that, and the question of whether your degree was earned online stops being a liability and becomes a footnote."
+        }
+      ]
+    },
+    "hadIssues": []
+  }
+]
