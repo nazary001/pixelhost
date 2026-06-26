@@ -47,6 +47,8 @@ const nextConfig: NextConfig = {
       // Reclaim pixelhost.io legacy backlinks: /black-friday had a link and
       // 404'd; the old WordPress blog structure has no link value -> home.
       { source: "/black-friday", destination: "/", permanent: true },
+      // Legacy /evo page (1 backlink, 404'd) — no evergreen value -> home.
+      { source: "/evo", destination: "/", permanent: true },
       { source: "/blog", destination: "/", permanent: true },
       { source: "/tag/:path*", destination: "/", permanent: true },
       { source: "/author/:path*", destination: "/", permanent: true },
