@@ -1,63 +1,80 @@
 "use client";
 
 import Script from "next/script";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { CONSENT_EVENT, CONSENT_STORAGE_KEY } from "./CookieConsent";
 
 /**
- * Analytics — consent-gated Google Analytics loader.
+ * Analytics — Google Analytics 4 with Google Consent Mode v2.
  *
- * Renders the gtag <Script> tags ONLY when:
- *   1. NEXT_PUBLIC_GA_ID is configured, AND
- *   2. the visitor has granted consent (stored cookie/localStorage, or the
- *      live CONSENT_EVENT dispatched by <CookieConsent> on Accept).
- *
- * If GA_ID is unset it renders null. It reacts to consent live, so GA boots
- * the moment the user clicks Accept — no page reload required.
+ * gtag loads for EVERY visitor (so Google can collect + model the maximum data),
+ * but consent for ad/analytics storage DEFAULTS TO DENIED. When the visitor
+ * accepts the cookie banner (CONSENT_EVENT "granted") consent is updated to
+ * granted for full, cookie-based measurement. This is the AdSense/GDPR-recommended
+ * setup. Renders null only when NEXT_PUBLIC_GA_ID is unset.
  */
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 
-function hasGrantedConsent(): boolean {
+function applyConsent(value: "granted" | "denied"): boolean {
+  const w = window as unknown as { gtag?: (...args: unknown[]) => void };
+  if (typeof w.gtag !== "function") return false;
+  w.gtag("consent", "update", {
+    ad_storage: value,
+    analytics_storage: value,
+    ad_user_data: value,
+    ad_personalization: value,
+  });
+  return true;
+}
+
+function storedConsent(): "granted" | "denied" | null {
   try {
-    if (window.localStorage.getItem(CONSENT_STORAGE_KEY) === "granted") {
-      return true;
-    }
+    const v = window.localStorage.getItem(CONSENT_STORAGE_KEY);
+    if (v === "granted" || v === "denied") return v;
   } catch {
-    // Fall through to the cookie.
+    /* fall through to cookie */
   }
-  return new RegExp(`(?:^|; )${CONSENT_STORAGE_KEY}=granted`).test(
+  const m = new RegExp(`(?:^|; )${CONSENT_STORAGE_KEY}=(granted|denied)`).exec(
     document.cookie,
   );
+  return (m?.[1] as "granted" | "denied") ?? null;
 }
 
 export default function Analytics() {
-  const [granted, setGranted] = useState(false);
-
   useEffect(() => {
     if (!GA_ID) return;
 
-    // Check stored consent asynchronously (post-paint) to avoid a cascading
-    // render inside the effect body; boot live on the banner's Accept event.
-    const check = setTimeout(() => {
-      if (hasGrantedConsent()) setGranted(true);
-    }, 0);
+    let timer: ReturnType<typeof setInterval> | undefined;
+    // Returning visitor who already accepted: re-grant once gtag is ready.
+    if (storedConsent() === "granted") {
+      let tries = 0;
+      timer = setInterval(() => {
+        if (applyConsent("granted") || ++tries > 40) clearInterval(timer);
+      }, 100);
+    }
 
-    function onConsent(event: Event) {
-      const detail = (event as CustomEvent<{ value?: string }>).detail;
-      if (detail?.value === "granted") setGranted(true);
+    function onConsent(e: Event) {
+      const v = (e as CustomEvent<{ value?: string }>).detail?.value;
+      if (v === "granted" || v === "denied") applyConsent(v);
     }
     window.addEventListener(CONSENT_EVENT, onConsent);
     return () => {
-      clearTimeout(check);
+      if (timer) clearInterval(timer);
       window.removeEventListener(CONSENT_EVENT, onConsent);
     };
   }, []);
 
-  if (!GA_ID || !granted) return null;
+  if (!GA_ID) return null;
 
   return (
     <>
+      <Script id="ga-consent-default" strategy="afterInteractive">
+        {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+gtag('set','url_passthrough',true);`}
+      </Script>
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
         strategy="afterInteractive"
