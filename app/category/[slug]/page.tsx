@@ -38,10 +38,13 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
       ? `${category.blurb} Page ${page} of the ${category.name} archive.`
       : category.blurb;
 
+  const { total } = await fetchArticlesByCategory(slug, 1, 1);
+
   return {
     title,
     description,
     alternates: { canonical },
+    ...(total === 0 ? { robots: { index: false } } : {}),
     openGraph: {
       title,
       description,
@@ -75,8 +78,57 @@ export default async function CategoryPage({ params, searchParams }: Props) {
 
   const latestOther = latest.filter((a) => a.category?.slug !== slug).slice(0, 5);
 
+  const canonicalUrl =
+    page > 1 ? `${SITE_URL}/category/${slug}?page=${page}` : `${SITE_URL}/category/${slug}`;
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": `${canonicalUrl}#breadcrumb`,
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: category.name,
+        item: `${SITE_URL}/category/${slug}`,
+      },
+    ],
+  };
+
+  const collectionLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${category.name} — Guides & Explainers`,
+    description: category.blurb,
+    url: canonicalUrl,
+    isPartOf: { "@id": `${SITE_URL}/#website` },
+    breadcrumb: { "@id": `${canonicalUrl}#breadcrumb` },
+    ...(items.length > 0
+      ? {
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: items.map((a, i) => ({
+              "@type": "ListItem",
+              position: (page - 1) * PAGE_SIZE + i + 1,
+              url: `${SITE_URL}/article/${a.slug}`,
+              name: a.title,
+            })),
+          },
+        }
+      : {}),
+  };
+
   return (
     <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
       <header className="reveal rule-double pb-6">
         <nav aria-label="Breadcrumb" className="text-xs text-moss">
           <Link href="/" className="hover:text-pine">

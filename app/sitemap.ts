@@ -26,6 +26,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE_URL}/contact`, changeFrequency: "yearly", priority: 0.3 },
     { url: `${SITE_URL}/privacy-policy`, changeFrequency: "yearly", priority: 0.2 },
     { url: `${SITE_URL}/terms-of-use`, changeFrequency: "yearly", priority: 0.2 },
+    { url: `${SITE_URL}/acceptable-use-policy`, changeFrequency: "yearly", priority: 0.2 },
   ];
 
   const categoryPages: MetadataRoute.Sitemap = CATEGORIES.map((c) => ({
@@ -40,6 +41,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: a.updatedAt || a.publishedAt || undefined,
     changeFrequency: "weekly",
     priority: 0.7,
+    ...(a.featuredImage ? { images: [a.featuredImage] } : {}),
   }));
 
   const authorPages: MetadataRoute.Sitemap = authors.map((a) => ({

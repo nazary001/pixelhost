@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
         <h1 className="font-display text-3xl font-semibold tracking-tight sm:text-4xl">
           Privacy Policy
         </h1>
-        <p className="tag-cap mt-3">Last updated: June 10, 2026</p>
+        <p className="tag-cap mt-3">Last updated: June 26, 2026</p>
       </header>
 
       <div className="article-body mt-8">
@@ -55,10 +55,38 @@ export default function PrivacyPolicyPage() {
           contact form data for marketing emails.
         </p>
 
-        <h2>Third-party services</h2>
+        <h2>Advertising and third-party cookies</h2>
         <p>
-          The site may include analytics (such as Google Analytics) and
-          advertising services. These providers process data under their own
+          Third-party vendors, including Google, use cookies to serve ads based
+          on a user&apos;s prior visits to this and other websites. Google&apos;s
+          use of advertising cookies enables it and its partners to serve ads to
+          our visitors based on their visit to this site and/or other sites on
+          the internet.
+        </p>
+        <p>
+          Visitors may opt out of personalized advertising by visiting{" "}
+          <a
+            href="https://www.google.com/settings/ads"
+            rel="nofollow noopener"
+            target="_blank"
+          >
+            Google Ads Settings
+          </a>
+          . You can also opt out of a third-party vendor&apos;s use of cookies
+          for personalized advertising by visiting{" "}
+          <a
+            href="https://www.aboutads.info/choices/"
+            rel="nofollow noopener"
+            target="_blank"
+          >
+            aboutads.info
+          </a>
+          . In the EEA, the UK and Switzerland, advertising and analytics cookies
+          are set only after you grant consent through our cookie banner.
+        </p>
+        <p>
+          We also use analytics tools such as Google Analytics to understand how
+          visitors use the site. These providers process data under their own
           privacy policies. Links to external websites are likewise governed by
           the privacy practices of those sites.
         </p>

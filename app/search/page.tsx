@@ -37,7 +37,7 @@ export default async function SearchPage({ searchParams }: Props) {
             name="q"
             defaultValue={query}
             required
-            placeholder="Try “digital marketing course” or “loan consolidation”…"
+            placeholder="Try “VPS vs shared hosting” or “point a domain to WordPress”…"
             aria-label="Search articles"
             className="field"
           />

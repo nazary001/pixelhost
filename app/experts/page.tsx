@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import EmptyState from "@/components/EmptyState";
-import { SITE_NAME } from "@/lib/config";
+import { SITE_NAME, SITE_URL } from "@/lib/config";
 import { pageMeta } from "@/lib/seo";
 import { fetchAuthors } from "@/lib/strapi";
 import { blocksToPlainText, truncate } from "@/lib/utils";
@@ -10,15 +10,40 @@ export const revalidate = 600;
 
 export const metadata = pageMeta({
   title: "Our Experts",
-  description: `Meet the writers and reviewers behind ${SITE_NAME} — the people who research courses, loans and learning tools so you don't have to.`,
+  description: `Meet the writers, reviewers and editors behind ${SITE_NAME} — the people who research, test and fact-check every guide we publish.`,
   path: "/experts",
 });
 
 export default async function ExpertsPage() {
   const authors = await fetchAuthors();
 
+  const collectionLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `Our Experts — ${SITE_NAME}`,
+    url: `${SITE_URL}/experts`,
+    isPartOf: { "@id": `${SITE_URL}/#website` },
+    ...(authors.length > 0
+      ? {
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: authors.map((a, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              url: `${SITE_URL}/experts/${a.slug}`,
+              name: a.name,
+            })),
+          },
+        }
+      : {}),
+  };
+
   return (
     <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }}
+      />
       <header className="reveal rule-double pb-6">
         <h1 className="font-display text-3xl font-semibold tracking-tight sm:text-4xl">
           Our <span className="u-marker">Experts</span>

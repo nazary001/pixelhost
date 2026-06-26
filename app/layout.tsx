@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Ubuntu_Sans } from "next/font/google";
 import Analytics from "@/components/Analytics";
+import AdSense from "@/components/AdSense";
 import CookieConsent from "@/components/CookieConsent";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -53,6 +54,11 @@ export const metadata: Metadata = {
       : {}),
     ...(process.env.NEXT_PUBLIC_BING_VERIFICATION
       ? { other: { "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION } }
+      : {}),
+  },
+  other: {
+    ...(process.env.NEXT_PUBLIC_ADSENSE_CLIENT
+      ? { "google-adsense-account": process.env.NEXT_PUBLIC_ADSENSE_CLIENT }
       : {}),
   },
 };
@@ -122,6 +128,7 @@ export default function RootLayout({
         <Footer />
         <CookieConsent />
         <Analytics />
+        <AdSense />
       </body>
     </html>
   );

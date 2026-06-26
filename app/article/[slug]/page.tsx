@@ -118,25 +118,45 @@ export default async function ArticlePage({ params }: Props) {
   const toc = extractToc(article.content);
   const faq = extractFaq(article.content);
 
+  const wordCount = blocksToPlainText(article.content)
+    .split(/\s+/)
+    .filter(Boolean).length;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: article.title,
+    headline: truncate(article.title, 110),
     description: truncate(article.description, 158),
     datePublished: article.publishedAt,
-    dateModified: article.updatedAt,
-    mainEntityOfPage: articleUrl,
-    ...(article.featuredImage ? { image: [article.featuredImage] } : {}),
-    ...(article.author
+    dateModified: article.updatedAt || article.publishedAt,
+    mainEntityOfPage: { "@type": "WebPage", "@id": articleUrl },
+    url: articleUrl,
+    inLanguage: "en",
+    isAccessibleForFree: true,
+    ...(wordCount > 0 ? { wordCount } : {}),
+    ...(article.category ? { articleSection: article.category.name } : {}),
+    ...(article.tags.length > 0 ? { keywords: article.tags.join(", ") } : {}),
+    image: article.featuredImage
       ? {
-          author: {
-            "@type": "Person",
-            "@id": `${SITE_URL}/experts/${article.author.slug}#person`,
-            name: article.author.name,
-            url: `${SITE_URL}/experts/${article.author.slug}`,
-          },
+          "@type": "ImageObject",
+          url: article.featuredImage,
+          ...(article.featuredImageWidth ? { width: article.featuredImageWidth } : {}),
+          ...(article.featuredImageHeight ? { height: article.featuredImageHeight } : {}),
         }
-      : {}),
+      : {
+          "@type": "ImageObject",
+          url: `${SITE_URL}/opengraph-image`,
+          width: 1200,
+          height: 630,
+        },
+    author: article.author
+      ? {
+          "@type": "Person",
+          "@id": `${SITE_URL}/experts/${article.author.slug}#person`,
+          name: article.author.name,
+          url: `${SITE_URL}/experts/${article.author.slug}`,
+        }
+      : { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: SITE_NAME },
     publisher: { "@id": `${SITE_URL}/#organization` },
   };
 
