@@ -49,9 +49,9 @@ export default async function ExpertsPage() {
           Our <span className="u-marker">Experts</span>
         </h1>
         <p className="mt-3 max-w-2xl leading-relaxed text-moss">
-          Every guide on {SITE_NAME} is researched and written by a real person.
-          Here&apos;s the team reading the fine print, testing the platforms and
-          translating the jargon.
+          Every guide on {SITE_NAME} is researched, written and fact-checked by
+          our editorial team. Here&apos;s the desk reading the fine print,
+          testing the platforms and translating the jargon.
         </p>
       </header>
 
