@@ -74,6 +74,10 @@ manual steps that can only be done inside your Google accounts and Vercel.
 
 ## 4. Vercel environment variables
 
+> ✅ **Done 2026-07-06 (via Vercel API):** `NEXT_PUBLIC_ADSENSE_CLIENT` is set on
+> Production and deployed — AdSense loader + `google-adsense-account` meta
+> verified live. (uxdictionary also has `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION`.)
+
 Set these on the project (Production) and redeploy:
 
 | Variable | Value |
