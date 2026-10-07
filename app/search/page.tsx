@@ -4,7 +4,7 @@ import { ListCard } from "@/components/ArticleCard";
 import EmptyState from "@/components/EmptyState";
 import Pagination from "@/components/Pagination";
 import { CATEGORIES } from "@/lib/config";
-import { searchArticles } from "@/lib/strapi";
+import { searchArticles } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Search",

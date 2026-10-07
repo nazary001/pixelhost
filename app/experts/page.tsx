@@ -3,7 +3,7 @@ import Link from "next/link";
 import EmptyState from "@/components/EmptyState";
 import { SITE_NAME, SITE_URL } from "@/lib/config";
 import { pageMeta } from "@/lib/seo";
-import { fetchAuthors } from "@/lib/strapi";
+import { fetchAuthors } from "@/lib/content";
 import { blocksToPlainText, truncate } from "@/lib/utils";
 
 export const revalidate = 600;

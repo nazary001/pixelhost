@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { submitContact } from "@/lib/strapi";
+import { submitContact } from "@/lib/content";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 

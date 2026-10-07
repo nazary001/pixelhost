@@ -1,5 +1,5 @@
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/config";
-import { fetchArticles } from "@/lib/strapi";
+import { fetchArticles } from "@/lib/content";
 import { escapeXml, truncate } from "@/lib/utils";
 
 export const revalidate = 3600;

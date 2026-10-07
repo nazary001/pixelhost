@@ -87,7 +87,7 @@ Set these on the project (Production) and redeploy:
 | `NEXT_PUBLIC_BING_VERIFICATION` | *(optional — Bing Webmaster Tools)* |
 | `NEXT_PUBLIC_YANDEX_VERIFICATION` | *(optional)* |
 
-> `NEXT_PUBLIC_GA_ID`, `STRAPI_API_URL` and `STRAPI_TOKEN` are already set.
+> `NEXT_PUBLIC_GA_ID`, `MONGODB_URI`, `MONGODB_DB` and `MEDIA_BASE_URL` are already set.
 
 ---
 

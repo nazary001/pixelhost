@@ -3,12 +3,13 @@
 Web-hosting content site — plain-language guides, how-tos and reviews on web
 hosting, domains, WordPress and website builders. Built with Next.js 16 (App
 Router) + Tailwind CSS 4. Cloned from the MKLern content-site structure and
-rebranded; the architecture (Strapi-backed content, ISR, SEO scaffolding) is
+rebranded; the architecture (MongoDB-backed content, ISR, SEO scaffolding) is
 unchanged.
 
-The site is one of several clients sharing a single Strapi instance and reads
-only its own collections (`post4s`, `author4s`, `contact4s`). Content
-categories are defined in `lib/config.ts`, not in Strapi.
+The site is one of several clients sharing a single MongoDB Atlas database
+(`gc`) and reads only its own collections (`post4s`, `category4s`, `author4s`,
+`contact4s`). Content categories are defined in `lib/config.ts`, not in the
+database.
 
 ## Setup
 
@@ -22,22 +23,28 @@ Environment variables (see `.env.example`):
 
 | Variable               | Scope        | Purpose                                  |
 | ---------------------- | ------------ | ---------------------------------------- |
-| `STRAPI_API_URL`       | server-only  | Base URL of the shared Strapi instance   |
-| `STRAPI_TOKEN`         | server-only  | API token (read + create)                |
+| `MONGODB_URI`          | server-only  | Atlas connection string (user `gcapp`)   |
+| `MONGODB_DB`           | server-only  | Database name (`gc`)                     |
+| `MEDIA_BASE_URL`       | build+server | Media bucket base URL (no trailing `/`)  |
 | `NEXT_PUBLIC_SITE_URL` | build-time   | Canonical site URL (sitemap, RSS, OG)    |
 | `NEXT_PUBLIC_GA_ID`    | build-time   | GA4 id, optional                         |
 
-The Strapi token is used only on the server (`lib/strapi.ts` and
-`app/api/contact/route.ts`); it is never shipped to the browser.
+The connection string is used only on the server (`lib/content.ts` through
+`lib/mongo.ts`, and `app/api/contact/route.ts`); it is never shipped to the
+browser. The content scripts additionally need `S3_BUCKET`, `AWS_REGION`,
+`AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` (uploads), see below.
 
 ## Structure
 
 - `app/` — routes: home, `category/[slug]`, `article/[slug]`, `experts`,
   `search`, `about`, `contact`, legal pages, `sitemap.ts`, `robots.ts`,
   `rss.xml`.
-- `components/` — header/footer, article cards, Strapi blocks renderer, forms.
-- `lib/` — site config (`config.ts`), Strapi API layer (`strapi.ts`), types,
-  utils.
+- `components/` — header/footer, article cards, rich-text blocks renderer, forms.
+- `lib/` — site config (`config.ts`), data layer (`content.ts`, MongoDB access
+  in `mongo.ts`), types, utils.
+- `scripts/` — content generation (`gen4.mjs` → Gemini), seeding (`seed4.mjs`)
+  and cover backfill (`backfill-images4.mjs`); helpers in `scripts/lib/`.
+- `tests/` — `npm test` (node:test; needs `MONGODB_URI`, writes only to `gc_test`).
 
 Content categories live in `lib/config.ts`: `web-hosting`, `wordpress`,
 `domains`, `website-builders`, `reviews`.
@@ -52,8 +59,9 @@ Content categories live in `lib/config.ts`: `web-hosting`, `wordpress`,
 
    | Variable | Value |
    | --- | --- |
-   | `STRAPI_API_URL` | the shared Strapi instance URL |
-   | `STRAPI_TOKEN` | the API token (mark as **Sensitive**) |
+   | `MONGODB_URI` | the Atlas SRV connection string (mark as **Sensitive**) |
+   | `MONGODB_DB` | `gc` |
+   | `MEDIA_BASE_URL` | the media bucket base URL |
    | `NEXT_PUBLIC_SITE_URL` | the production URL (e.g. `https://pixelhost.io`) |
    | `NEXT_PUBLIC_GA_ID` | GA4 id, optional |
    | `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` | from Search Console, optional |
@@ -66,8 +74,23 @@ Content categories live in `lib/config.ts`: `web-hosting`, `wordpress`,
    `NEXT_PUBLIC_SITE_URL` to it and redeploy so canonicals/sitemap/JSON-LD
    use the real domain.
 
-Notes: Strapi fetch timeouts are capped at 8s to fit serverless function
-limits; `.env*` is gitignored so the token never reaches the repo.
+Notes: database queries are capped at 8s (`maxTimeMS`) to fit serverless
+function limits; `.env*` is gitignored so the connection string never reaches
+the repo.
+
+## Content scripts
+
+```bash
+GEMINI_API_KEY=... node scripts/gen4.mjs                      # writes scripts/articles.json
+node --env-file=.env.local scripts/seed4.mjs --dry-run        # plan only, no writes
+node --env-file=.env.local scripts/seed4.mjs [articles.json]  # creates posts + uploads covers to S3
+node --env-file=.env.local scripts/backfill-images4.mjs       # covers for posts without one (--dry-run supported)
+```
+
+New documents get Strapi-compatible envelopes (`id` from the `counters`
+collection, 24-char `documentId`, `publishedAt`), cover images go to
+`uploads/<name>_<hash>.<ext>` in the bucket with Strapi-style size variants,
+and a matching `files` record is written.
 
 ## SEO
 

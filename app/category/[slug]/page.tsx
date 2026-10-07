@@ -5,7 +5,7 @@ import { ListCard, RowCard } from "@/components/ArticleCard";
 import EmptyState from "@/components/EmptyState";
 import Pagination from "@/components/Pagination";
 import { CATEGORIES, categoryIndex, getCategory, SITE_URL } from "@/lib/config";
-import { fetchArticles, fetchArticlesByCategory } from "@/lib/strapi";
+import { fetchArticles, fetchArticlesByCategory } from "@/lib/content";
 
 export const revalidate = 300;
 

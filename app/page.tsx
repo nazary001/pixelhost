@@ -4,7 +4,7 @@ import { FeatureCard, HeroCard, RowCard } from "@/components/ArticleCard";
 import EmptyState from "@/components/EmptyState";
 import SectionHeading from "@/components/SectionHeading";
 import { CATEGORIES, SITE_NAME, SITE_TAGLINE } from "@/lib/config";
-import { fetchArticles, fetchLatestByCategory } from "@/lib/strapi";
+import { fetchArticles, fetchLatestByCategory } from "@/lib/content";
 import type { Article } from "@/lib/types";
 
 export const revalidate = 300;

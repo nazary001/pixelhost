@@ -1,12 +1,17 @@
 import type { NextConfig } from "next";
 
-const strapiHost = (() => {
+// Article images live in the media bucket (MEDIA_BASE_URL); the hostname is
+// derived from it so the optimizer never has to trust a wildcard.
+const mediaHost = (() => {
   try {
-    return new URL(process.env.STRAPI_API_URL ?? "").hostname;
+    return new URL(process.env.MEDIA_BASE_URL ?? "").hostname;
   } catch {
     return null;
   }
 })();
+if (!mediaHost) {
+  console.warn("[next.config] MEDIA_BASE_URL is not set: next/image will reject article images");
+}
 
 const securityHeaders = [
   { key: "X-Content-Type-Options", value: "nosniff" },
@@ -27,13 +32,9 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   compress: true,
   images: {
-    // Only the Strapi media hosts — a wildcard would turn /_next/image
+    // Only the media bucket host — a wildcard would turn /_next/image
     // into an open proxy for arbitrary third-party images.
-    remotePatterns: [
-      ...(strapiHost ? [{ protocol: "https" as const, hostname: strapiHost }] : []),
-      { protocol: "https", hostname: "*.strapiapp.com" },
-      { protocol: "https", hostname: "*.media.strapiapp.com" },
-    ],
+    remotePatterns: mediaHost ? [{ protocol: "https" as const, hostname: mediaHost }] : [],
     formats: ["image/avif", "image/webp"],
     minimumCacheTTL: 2592000,
   },

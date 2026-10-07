@@ -7,7 +7,7 @@ import BlocksRenderer from "@/components/BlocksRenderer";
 import EmptyState from "@/components/EmptyState";
 import { SITE_URL } from "@/lib/config";
 import { pageMeta } from "@/lib/seo";
-import { fetchArticlesByAuthor, fetchAuthorBySlug } from "@/lib/strapi";
+import { fetchArticlesByAuthor, fetchAuthorBySlug } from "@/lib/content";
 import { blocksToPlainText, truncate } from "@/lib/utils";
 
 export const revalidate = 600;

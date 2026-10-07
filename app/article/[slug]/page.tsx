@@ -9,7 +9,7 @@ import SectionHeading from "@/components/SectionHeading";
 import ShareButtons from "@/components/ShareButtons";
 import TableOfContents from "@/components/TableOfContents";
 import { SITE_NAME, SITE_URL } from "@/lib/config";
-import { fetchArticleBySlug, fetchArticles, fetchLatestByCategory } from "@/lib/strapi";
+import { fetchArticleBySlug, fetchArticles, fetchLatestByCategory } from "@/lib/content";
 import type { BlockNode } from "@/lib/types";
 import { blocksToPlainText, extractToc, formatDate, truncate } from "@/lib/utils";
 

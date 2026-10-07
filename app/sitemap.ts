@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { CATEGORIES, SITE_URL } from "@/lib/config";
-import { fetchAllArticles, fetchAuthors } from "@/lib/strapi";
+import { fetchAllArticles, fetchAuthors } from "@/lib/content";
 
 export const revalidate = 3600;
 
